@@ -1,0 +1,30 @@
+
+p, span {
+  color: #fff;
+}
+
+p {
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
+}
+
+.text {
+  color:#fff;
+  padding: 0 5rem;
+}
+
+.left {
+  float: right;
+}
+
+.position {
+  position: fixed;
+  top: 200px;
+  right: 0;
+  bottom: 0;
+}
+
+.ht {
+  height: 400px;
+}
+

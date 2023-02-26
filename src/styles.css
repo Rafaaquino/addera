@@ -1,0 +1,92 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600;900&family=Roboto:wght@100;300;500;700;900&display=swap');
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto'
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.row {
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.d-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.p-5 {
+  padding: 2rem;
+}
+
+.pb-5 {
+  padding-bottom: 5rem;
+}
+
+.pb-14 {
+  padding-bottom: 14rem;
+}
+
+.pt {
+  padding-top: 3rem!important;
+}
+
+.center {
+  text-align: center;
+}
+
+.moldura {
+  max-width: 250px!important;
+}
+
+
+
+.l-8{
+  width: 80%!important;
+}
+
+.icon-bar {
+  display: none;
+}
+
+
+@media screen and (max-width: 465px) {
+  .moldura {
+    max-width: 210px!important;
+  }
+
+  .plr {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+
+  .text {
+    padding: 1rem!important;
+  }
+
+  .icon-bar {
+    display: block;
+  }
+
+}

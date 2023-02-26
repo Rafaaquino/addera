@@ -1,0 +1,29 @@
+<div class="sidebar flex">
+  <span class="icon-bar" (click)="toggleMenu()">
+    <img src="{{imagem}}" alt="" width="80">
+  </span>
+  <ul class="menu fadeIn" [ngClass]="{'menu--open': isMenuOpen}">
+    <li><a  routerLink="/" >início</a></li>
+    <div class="menuPai">
+      <div class="menuFilho"><p>gd</p></div>
+      <div class="menuNeto">
+        <ul class="submenu">
+          <li><a  routerLink="/gd/sigma" routerLinkActive="active">Sigma</a></li>
+          <li><a  routerLink="/gd/alfa-e-sigma" routerLinkActive="active">Alfa e Delta</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="menuPai">
+      <div class="menuFilho2"><p>representantes</p></div>
+      <div class="menuNeto">
+        <ul class="submenu">
+          <li><a  routerLink="/representantes/delta" routerLinkActive="active">Delta</a></li>
+          <li><a  routerLink="/representantes/alfa" routerLinkActive="active">Alfa</a></li>
+          <li><a  routerLink="/representantes/sigma" routerLinkActive="active">Sigma</a></li>
+        </ul>
+      </div>
+    </div>
+    <li><a  routerLink="/informe" routerLinkActive="active">informe</a></li>
+    <li><a  routerLink="/boas-praticas" routerLinkActive="active">boas práticas</a></li>
+  </ul>
+</div>
