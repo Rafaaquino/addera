@@ -99,7 +99,7 @@ ul .submenu  li a{
 }
 
 .active {
-  background: #000;
+  text-decoration: underline!important
 }
 
 .menu {
