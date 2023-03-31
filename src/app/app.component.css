@@ -2,7 +2,7 @@
   background-image: url('../assets/images/bg-desk.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: bottom;
+  background-position: top center;
 }
 
 @media screen and (max-width: 468px) {

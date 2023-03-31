@@ -70,6 +70,14 @@
   display: none;
 }
 
+.mb-15{
+  margin-bottom: 15rem;
+}
+
+.dn {
+  display: none;
+}
+
 
 @media screen and (max-width: 465px) {
   .moldura {
