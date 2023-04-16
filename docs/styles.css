@@ -59,6 +59,12 @@
 .dn {
   display: none;
 }
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.justify-end {
+  justify-content: end;
+}
 @media screen and (max-width: 465px) {
   .moldura {
     max-width: 210px!important;

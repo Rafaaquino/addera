@@ -100,7 +100,7 @@ class SigmaComponent {
     }
 }
 SigmaComponent.ɵfac = function SigmaComponent_Factory(t) { return new (t || SigmaComponent)(); };
-SigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: SigmaComponent, selectors: [["app-sigma"]], decls: 67, vars: 0, consts: [[1, "pt-5"], [1, "container", "d-flex"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/GD_Sigma_Titulo.png", "alt", "GD alfa e delta addera", "width", "500", 1, "img-fluid"], [1, "container", "dn"], [1, "col", "d-flex", "wrap"], ["src", "../../../../assets/images/share.png", "alt", "", 1, "img-fluid"], [1, "row", "d-flex"], [1, "col-12", "col-sm-6", "col-md-6"], [1, "text", "plr"], [1, "container"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_NAICK.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], [1, "row", "justify-center", "plr"], [1, "porcentagem"], [1, "nome"], [1, "numero"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_LUCAS.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_LUCIANO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center", "mb-15"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_MARCIO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"]], template: function SigmaComponent_Template(rf, ctx) { if (rf & 1) {
+SigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: SigmaComponent, selectors: [["app-sigma"]], decls: 67, vars: 0, consts: [[1, "pt-5"], [1, "container", "d-flex"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/gd-sigma/gd-sigma.png", "alt", "GD alfa e delta addera", "width", "500", 1, "img-fluid"], [1, "container", "dn"], [1, "col", "d-flex", "wrap"], ["src", "../../../../assets/images/share.png", "alt", "", 1, "img-fluid"], [1, "row", "d-flex"], [1, "col-12", "col-sm-6", "col-md-6"], [1, "text", "plr"], [1, "container"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_NAICK.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], [1, "row", "justify-center", "plr"], [1, "porcentagem"], [1, "nome"], [1, "numero"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_LUCAS.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_LUCIANO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center", "mb-15"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_MARCIO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"]], template: function SigmaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -229,7 +229,7 @@ class HomeComponent {
     }
 }
 HomeComponent.ɵfac = function HomeComponent_Factory(t) { return new (t || HomeComponent)(); };
-HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HomeComponent, selectors: [["app-home"]], decls: 3, vars: 0, consts: [[1, "bg"], [1, "container", "d-flex"], ["src", "../../../assets/images/logo.png", "alt", "Addera", "width", "700", 1, "img-fluid"]], template: function HomeComponent_Template(rf, ctx) { if (rf & 1) {
+HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HomeComponent, selectors: [["app-home"]], decls: 3, vars: 0, consts: [[1, "bg"], [1, "container", "d-flex"], ["src", "../../../assets/images/titulo.png", "alt", "Addera", "width", "700", 1, "img-fluid"]], template: function HomeComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "img", 2);
@@ -2327,7 +2327,7 @@ class AlfaComponent {
     }
 }
 AlfaComponent.ɵfac = function AlfaComponent_Factory(t) { return new (t || AlfaComponent)(); };
-AlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AlfaComponent, selectors: [["app-alfa"]], decls: 146, vars: 0, consts: [[1, "pt-5"], [1, "container", "d-flex"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/alfa-e-delta.png", "alt", "GD alfa e delta addera", "width", "500", 1, "img-fluid"], [1, "container"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANIEL.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], [1, "row", "justify-center", "plr"], [1, "porcentagem"], [1, "nome"], [1, "numero"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANILO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_FLAVIO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_LUCIANO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_MARCIO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta//GD_ALFA_DELTA_PAULO_ALMEIDA.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_PAULO_FEIJOLI.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_RENATA.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_SAMUEL.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_THIAGO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center", "mb-15"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_WEMERSON.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"]], template: function AlfaComponent_Template(rf, ctx) { if (rf & 1) {
+AlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AlfaComponent, selectors: [["app-alfa"]], decls: 146, vars: 0, consts: [[1, "pt-5"], [1, "container", "d-flex"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/gd-alfa-delta/gd-alfadelta.png", "alt", "GD alfa e delta addera", "width", "600", 1, "img-fluid"], [1, "container"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANIEL.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], [1, "row", "justify-center", "plr"], [1, "porcentagem"], [1, "nome"], [1, "numero"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANILO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_FLAVIO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_LUCIANO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_MARCIO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta//GD_ALFA_DELTA_PAULO_ALMEIDA.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_PAULO_FEIJOLI.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_RENATA.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_SAMUEL.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_THIAGO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center", "mb-15"], ["src", "../../../../assets/images/gd-alfa-delta/GD_ALFA_DELTA_WEMERSON.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"]], template: function AlfaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -2576,7 +2576,7 @@ class InformeComponent {
     }
 }
 InformeComponent.ɵfac = function InformeComponent_Factory(t) { return new (t || InformeComponent)(); };
-InformeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: InformeComponent, selectors: [["app-informe"]], decls: 12, vars: 0, consts: [["id", "tela"], [1, "container", "d-flex"], [1, "row"], [1, "col", "d-flex", "justify-center"], ["src", "../../../../assets/images/Informes_Titulo.png", "alt", "GD alfa e delta addera", "width", "75%", 1, "img-fluid"], [1, "container"], [1, "row", "d-flex"], [1, "col-10", "col-sm-8", "col-md-8", "pb-14"], [1, "text"], ["src", "../../../assets/images/vitamina-d.png", "alt", "", "width", "300", 1, "img-fluid", "left"]], template: function InformeComponent_Template(rf, ctx) { if (rf & 1) {
+InformeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: InformeComponent, selectors: [["app-informe"]], decls: 30, vars: 0, consts: [["id", "tela"], [1, "container", "d-flex"], [1, "row"], [1, "col", "d-flex", "justify-center"], ["src", "../../../../assets/images/Informes_Titulo.png", "alt", "GD alfa e delta addera", "width", "85%", 1, "img-fluid"], [1, "mb-5"], [1, "col-12", "col-md-5", "d-flex", "justify-center", "mb-3"], ["src", "../../assets/images/informes/498_projeto_addera_2023_JANEIRO_V2_Informe_01.png", "alt", "GD alfa e delta addera", 1, "img-fluid"], [1, "col-12", "col-md-7", "d-flex", "justify-end", "flex-wrap"], ["src", "../../assets/images/informes/498_projeto_addera_2023_JANEIRO_V2_Informe_02.png", "alt", "GD alfa e delta addera", 1, "img-fluid"], [1, "col-12", "col-md-6", "d-flex", "justify-end", "flex-wrap", "mb-3"], ["src", "../../assets/images/informes/498_projeto_addera_2023_JANEIRO_V2_Informe_03.png", "alt", "GD alfa e delta addera", 1, "img-fluid", "mb-3"], ["src", "../../assets/images/informes/498_projeto_addera_2023_JANEIRO_V2_Informe_05.png", "alt", "GD alfa e delta addera", 1, "img-fluid"], [1, "col-12", "col-md-6", "d-flex", "justify-center", "mb-3"], ["src", "../../assets/images/informes/498_projeto_addera_2023_JANEIRO_V2_Informe_04.png", "alt", "GD alfa e delta addera", 1, "img-fluid"], [1, "container", "d-flex", "mb-3"], ["src", "../../assets/images/informes/498_projeto_addera_2023_JANEIRO_V2_Informe_06.png", "alt", "GD alfa e delta addera", 1, "img-fluid"], [1, "col", "d-flex", "justify-center", "mb-15"], ["src", "../../assets/images/informes/498_projeto_addera_2023_JANEIRO_V2_Informe_07.png", "alt", "GD alfa e delta addera", 1, "img-fluid"]], template: function InformeComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -2586,14 +2586,45 @@ InformeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "section");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "div", 5);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div", 6);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "div", 7);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "p", 8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "section", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "div", 1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](9, "img", 7);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "div", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](11, "img", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "section", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "div", 1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "div", 10);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](16, "img", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "img", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](19, "img", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "section", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "div", 15);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "div", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](24, "img", 16);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "section");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "div", 1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "div", 17);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](29, "img", 18);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
