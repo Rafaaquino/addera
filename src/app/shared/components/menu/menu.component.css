@@ -15,10 +15,15 @@
   align-items: center;
 }
 
+.pb-0 {
+  padding-bottom: 15px!important;
+}
+
 ul {
   list-style: none;
   text-decoration: none;
   padding: 0;
+  margin-bottom: 0;
 }
 
 li {
@@ -162,5 +167,6 @@ ul .submenu  li a{
     max-width: 57px;
     top: 0;
     position: absolute;
+    right: 0;
   }
 }

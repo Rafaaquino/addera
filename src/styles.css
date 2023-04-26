@@ -104,4 +104,8 @@
     display: block;
   }
 
+  .m-pl-3 {
+    padding-left: 4.5rem!important;
+  }
+
 }
