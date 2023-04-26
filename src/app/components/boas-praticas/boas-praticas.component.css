@@ -27,6 +27,13 @@ p {
   height: 400px;
 }
 
+.mt-3 {
+  margin-top: 3rem;
+}
+
+iframe {
+  padding-left: 2.3rem;
+}
 
 @media screen and (max-width: 465px) {
   .none {

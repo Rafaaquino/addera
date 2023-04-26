@@ -155,12 +155,12 @@ ul .submenu  li a{
   }
 
   .menuFilho, .menuFilho2 {
-    min-height: 12em;
+    min-height: 10.3em;
     padding: 0.6rem;
   }
 
   li a {
-    font-size: 0.8rem;
+    font-size: 0.66rem;
   }
 
   .icon-bar img {
@@ -168,5 +168,10 @@ ul .submenu  li a{
     top: 0;
     position: absolute;
     right: 0;
+  }
+
+  .menuFilho p, .menuFilho2 p {
+    font-size: 0.7rem;
+    margin-bottom: 0;
   }
 }
