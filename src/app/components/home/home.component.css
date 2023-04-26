@@ -9,3 +9,12 @@ section {
 	margin: 0 auto;
 	display: flex;
 }
+
+@media screen and (max-width: 465px) {
+
+  .mb {
+      max-width: 85%!important;
+      height: auto;
+      margin-left: 3rem!important;
+  }
+}
