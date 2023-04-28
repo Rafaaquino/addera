@@ -11,7 +11,7 @@ import { SigmaComponent } from './components/gd/sigma/sigma.component';
 import { RpSigmaComponent } from './components/representantes/sigma/sigma.component';
 import { RpDeltaComponent } from './components/representantes/delta/delta.component';
 import { RpAlfaComponent } from './components/representantes/alfa/alfa.component';
-import { InformeComponent } from './informe/informe.component';
+import { InformeComponent } from './components/informe/informe.component';
 import { BoasPraticasComponent } from './components/boas-praticas/boas-praticas.component';
 
 
