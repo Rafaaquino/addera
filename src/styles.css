@@ -108,4 +108,8 @@
     padding-left: 4.5rem!important;
   }
 
+  .img-titulo {
+    max-width: 300px!important;
+  }
+
 }
