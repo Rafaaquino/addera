@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\rafa_\Desktop\Freelas\Argumento comunicacao\lp\landingpage\src\main.ts */"zUnb");
+module.exports = __webpack_require__(/*! C:\Users\t03256\Desktop\Nova pasta\addera\src\main.ts */"zUnb");
 
 
 /***/ }),
@@ -179,7 +179,7 @@ class SigmaComponent {
     }
 }
 SigmaComponent.ɵfac = function SigmaComponent_Factory(t) { return new (t || SigmaComponent)(); };
-SigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: SigmaComponent, selectors: [["app-sigma"]], decls: 94, vars: 0, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/gd-sigma/MARCO_Titulos_GDSIGMA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container", "dn"], [1, "col", "d-flex", "wrap"], ["src", "../../../../assets/images/share.png", "alt", "", 1, "img-fluid"], [1, "row", "d-flex"], [1, "col-12", "col-sm-6", "col-md-6"], [1, "text", "plr"], [1, "container"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_NAICK.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], [1, "row", "justify-center", "plr"], [1, "porcentagem"], [1, "nome"], [1, "numero"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_LUCAS.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_LUCIANO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_MARCIO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/rp-delta/MARCIO PERESSIN.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center", "mb-15"], ["src", "../../../../assets/images/gd-sigma/RENATA MARTINO DE CARVALHO LEAL.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"]], template: function SigmaComponent_Template(rf, ctx) { if (rf & 1) {
+SigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: SigmaComponent, selectors: [["app-sigma"]], decls: 82, vars: 0, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/gd-sigma/MARCO_Titulos_GDSIGMA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container", "dn"], [1, "col", "d-flex", "wrap"], ["src", "../../../../assets/images/share.png", "alt", "", 1, "img-fluid"], [1, "row", "d-flex"], [1, "col-12", "col-sm-6", "col-md-6"], [1, "text", "plr"], [1, "container"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_NAICK.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], [1, "row", "justify-center", "plr"], [1, "porcentagem"], [1, "nome"], [1, "numero"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_LUCAS.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_LUCIANO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], ["src", "../../../../assets/images/gd-sigma/GD_SIGMA_MARCIO.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center", "mb-15"], ["src", "../../../../assets/images/gd-sigma/RENATA MARTINO DE CARVALHO LEAL.png", "alt", "", "width", "200", 1, "img-fluid", "moldura"]], template: function SigmaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -288,39 +288,21 @@ SigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCom
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "section");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](68, "div", 11);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "div", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "div", 22);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](71, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](72, "img", 22);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](72, "img", 23);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](73, "div", 15);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "span", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](75, " 45,4% ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](75, " 40,8% ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](76, "hr");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "p", 17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](78, "MARIO PERESSIN ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](78, "RENATA M. DE CARVALHO LEAL ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](79, "hr");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](80, "span", 18);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](81, "*****");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "div", 23);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](83, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](84, "img", 24);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](85, "div", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](86, "span", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](87, " 40,8% ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](88, "hr");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](89, "p", 17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](90, "RENATA M. DE CARVALHO LEAL ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](91, "hr");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](92, "span", 18);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](93, "502050000 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](81, "502050000 ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
