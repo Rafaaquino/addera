@@ -13,6 +13,9 @@ import { RpDeltaComponent } from './components/representantes/delta/delta.compon
 import { RpAlfaComponent } from './components/representantes/alfa/alfa.component';
 import { InformeComponent } from './components/informe/informe.component';
 import { BoasPraticasComponent } from './components/boas-praticas/boas-praticas.component';
+import { TesteComponent } from './components/teste/teste.component';
+import { ModalComponent } from './shared/components/modal/modal.component';
+import { NgbActiveModal } from '@ng-bootstrap/ng-bootstrap';
 
 
 
@@ -28,14 +31,20 @@ import { BoasPraticasComponent } from './components/boas-praticas/boas-praticas.
     RpDeltaComponent,
     RpAlfaComponent,
     InformeComponent,
-    BoasPraticasComponent
+    BoasPraticasComponent,
+    TesteComponent,
+    ModalComponent,
+
   ],
   imports: [
     BrowserModule,
     RouterModule,
-    AppRoutingModule
+    AppRoutingModule,
+
   ],
-  providers: [],
+  providers: [
+    NgbActiveModal
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

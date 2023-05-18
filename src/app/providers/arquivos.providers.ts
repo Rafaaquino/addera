@@ -4,7 +4,7 @@ export const Gdsigma = [
    "nome": "Mateus",
    "matricula": 30984003,
    "porcentagem": 47.3,
-   "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANILO.png"
+   "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANIEL.png"
   },
   {
    "id": 2,
@@ -18,14 +18,14 @@ export const Gdsigma = [
    "nome": "ederson",
    "matricula": 3029390330,
    "porcentagem": 44.9,
-   "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANILO.png"
+   "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_FLAVIO.png"
   },
   {
     "id": 4,
     "nome": "ederson",
     "matricula": 3029390330,
     "porcentagem": 44.9,
-    "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANILO.png"
+    "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_PAULO_ALMEIDA.png"
    }
  ]
 

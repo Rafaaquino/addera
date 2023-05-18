@@ -11,6 +11,7 @@ import { InformeComponent } from './components/informe/informe.component';
 import { BoasPraticasComponent } from './components/boas-praticas/boas-praticas.component';
 import { RpDeltaComponent } from './components/representantes/delta/delta.component';
 import { RpAlfaComponent } from './components/representantes/alfa/alfa.component';
+import { TesteComponent } from './components/teste/teste.component';
 
 
 const routes: Routes = [
@@ -21,7 +22,8 @@ const routes: Routes = [
   { path: 'representantes/delta', component: RpDeltaComponent},
   { path: 'representantes/alfa', component: RpAlfaComponent},
   { path: 'informe', component: InformeComponent},
-  { path: 'boas-praticas', component: BoasPraticasComponent}
+  { path: 'boas-praticas', component: BoasPraticasComponent},
+  { path: 'teste', component: TesteComponent}
 ]
 
 @NgModule({

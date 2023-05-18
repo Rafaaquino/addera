@@ -1,0 +1,75 @@
+<section class="pt-5">
+  <div class="container d-flex m-pl-3">
+    <div class="row">
+      <div class="col">
+        <img src="../../../../assets/images/gd-alfa-delta/MARCO_Titulos_GDALFADELTA.png" alt="GD alfa e delta addera" class="img-fluid img-titulo" width="900">
+      </div>
+    </div>
+  </div>
+</section>
+<section>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-3 col-md-3 p-5 center" *ngFor="let pessoa of arquivos">
+
+        <div class="row justify-center clickImg">
+          <img [src]="pessoa.img" alt="" class="img-fluid moldura" width="200" (click)="openId(pessoa.id)">
+        </div>
+        <div class="row justify-center plr">
+          <span class="porcentagem"> {{pessoa.porcentagem}} </span>
+          <hr>
+          <p class="nome">{{pessoa.nome}}</p>
+          <hr>
+          <span class="numero">{{pessoa.matricula}}</span>
+        </div>
+
+        <!-- <button type="button" class="btn btn-primary" (click)="openModal(pessoa.id)">open</button> -->
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+
+<!--<div class="modal" [class.show]="modalVisible">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">{{ pessoaSelecionada?.nome }}</h5>
+        <button type="button" class="close" (click)="fecharModal()">
+          <span>&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>Matrícula: {{ pessoaSelecionada?.matricula }}</p>
+        <p>Porcentagem: {{ pessoaSelecionada?.porcentagem }}</p>
+      </div>
+    </div>
+  </div>
+</div>-->
+
+
+<div class="modal" [ngStyle]="{'display': showModal ? 'block' : 'none'}">
+  <div class="modal-content">
+
+    <span class="close" (click)="closeModal()">&times;</span>
+      <div class="row justify-center plr">
+        <img src="../../../../assets/images/gd-alfa-delta/MARCO_Titulos_GDALFADELTA.png" alt="GD alfa e delta addera" class="img-fluid img-titulo" width="450">
+      </div>
+
+      <div class="row justify-center">
+        <img [src]="pessoaModal?.img" alt="" class="img-fluid moldura" width="200">
+      </div>
+      <div class="row justify-center plr">
+        <div class="col-md-4 text-center mb-5">
+          <span class="porcentagem"> {{pessoaModal?.porcentagem}} </span>
+          <hr class="hr-modal">
+          <p class="nome">{{pessoaModal?.nome}}</p>
+          <hr class="hr-modal">
+          <span class="numero">{{pessoaModal?.matricula}}</span>
+        </div>
+      </div>
+  </div>
+</div>

@@ -1,0 +1,23 @@
+
+<!-- Modal -->
+<div class="modal fade" id="popUp" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="row">
+
+            <div class="row justify-center">
+              <img [src]="arquivo.img" alt="" class="img-fluid moldura" width="200">
+            </div>
+            <div class="row justify-center plr">
+              <span class="porcentagem"> {{arquivo.porcentagem}} </span>
+              <hr>
+              <p class="nome">{{arquivo.nome}}</p>
+              <hr>
+              <span class="numero">{{arquivo.matricula}}</span>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
