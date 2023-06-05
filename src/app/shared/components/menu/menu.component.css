@@ -138,8 +138,9 @@ ul .submenu  li a{
   animation: fadeIn 1s ease-in-out;
 }
 
-
-
+.index {
+  z-index: 1;
+}
 
 @media screen and (max-width: 468px) {
   .menu {

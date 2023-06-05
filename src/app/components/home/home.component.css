@@ -10,9 +10,7 @@ section {
 	display: flex;
 }
 
-.index {
-  z-index: 1;
-}
+
 
 @media screen and (max-width: 465px) {
 
