@@ -17,7 +17,7 @@
           <img [src]="pessoa.img" alt="" class="img-fluid moldura" width="200" (click)="openId(pessoa.id)">
         </div>
         <div class="row justify-center plr">
-          <span class="porcentagem"> {{pessoa.porcentagem}} </span>
+          <span class="porcentagem"> {{pessoa.porcentagem | percent:'1.2-5'}} </span>
           <hr>
           <p class="nome">{{pessoa.nome}}</p>
           <hr>

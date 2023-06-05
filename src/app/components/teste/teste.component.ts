@@ -2,7 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { ArquivosModel } from 'src/app/models/arquivos.model';
 import { Gdsigma } from 'src/app/providers/arquivos.providers';
-import { ModalComponent } from 'src/app/shared/components/modal/modal.component';
+
+
 
 @Component({
   selector: 'app-teste',
@@ -41,10 +42,5 @@ export class TesteComponent implements OnInit {
       this.openModal();
     }
   }
-
-  // openModalPessoa(pessoa: any) {
-  //   const modalRef = this.modalService.open(ModalComponent);
-  //   modalRef.componentInstance.pessoa = pessoa;
-  // }
 
 }

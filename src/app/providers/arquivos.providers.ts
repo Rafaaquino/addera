@@ -1,31 +1,38 @@
 export const Gdsigma = [
   {
-   "id": 1,
-   "nome": "Mateus",
-   "matricula": 30984003,
-   "porcentagem": 47.3,
-   "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANIEL.png"
+    "id": 1,
+    "nome": "NAICK FELIPE SANTOS CUNHA",
+    "matricula": 501070000,
+    "porcentagem": 0.4482,
+    "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/GD_SIGMA_NAICK.png"
   },
   {
-   "id": 2,
-   "nome": "Carlos",
-   "matricula": 309230032,
-   "porcentagem": 56.8,
-   "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANILO.png"
+    "id": 2,
+    "nome": "LUCIANO LUCIO FERREIRA XAVIER",
+    "matricula": 501080000,
+    "porcentagem": 0.4429,
+    "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/GD_SIGMA_LUCIANO.png"
   },
   {
-   "id": 3,
-   "nome": "ederson",
-   "matricula": 3029390330,
-   "porcentagem": 44.9,
-   "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_FLAVIO.png"
+    "id": 3,
+    "nome": "MARCIO PERESSIN",
+    "matricula": 501030000,
+    "porcentagem": 0.412,
+    "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/GD_SIGMA_MARCIO.png"
   },
   {
     "id": 4,
-    "nome": "ederson",
-    "matricula": 3029390330,
-    "porcentagem": 44.9,
-    "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_PAULO_ALMEIDA.png"
-   }
+    "nome": "RENATA MARTINO DE CARVALHO LEAL",
+    "matricula": 502050000,
+    "porcentagem": 0.4051,
+    "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/RENATA%20MARTINO%20DE%20CARVALHO%20LEAL.png"
+  },
+  {
+    "id": 5,
+    "nome": "LUCAS FELIPE CAHINO PARAISO DA COSTA",
+    "matricula": 501060000,
+    "porcentagem": 0.4043,
+    "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/GD_SIGMA_LUCAS.png"
+  }
  ]
 
