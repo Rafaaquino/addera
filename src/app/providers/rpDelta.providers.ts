@@ -95,7 +95,7 @@ export const RpDelta = [
     "nome": "JEFFERSSON RODRIGUES DE OLIVEIRA",
     "matricula": 303060403,
     "porcentagem": 0.5,
-    "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ADRIANO%20CESAR%20MARTINS%20DHESSICHK.png"
+    "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/Jefferson-Rodrigues-de-Oliveira.png"
   },
   {
     "id": 15,
@@ -368,7 +368,7 @@ export const RpDelta = [
     "nome": "LARISSA DE MATOS COSTHAISME",
     "matricula": 305040403,
     "porcentagem": 0.412,
-    "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/LARISSA%20D.%20M.%20COSTHAISME%20.png"
+    "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/Larissa-de-Matos-Costhaisme.png"
   },
   {
     "id": 54,

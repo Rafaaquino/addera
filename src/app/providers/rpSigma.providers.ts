@@ -53,7 +53,7 @@ export const RpSigma = [
     "nome": "CARLOS ALBERTO FRIGOTTO",
     "matricula": 501030906,
     "porcentagem": 0.497,
-    "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/CARLOS%20A.%20FRIGOTTO.png"
+    "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/Carlos-Alberto-Frigotto.png"
   },
   {
     "id": 9,
@@ -228,7 +228,7 @@ export const RpSigma = [
     "nome": "ALEXANDRE BARREIRO DIAS",
     "matricula": 501040905,
     "porcentagem": 0.419,
-    "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ADRIANO%20CESAR%20MARTINS%20DHESSICHK.png"
+    "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ALEXANDRE-BARREIRO-DIAS.png"
   },
   {
     "id": 34,
@@ -284,7 +284,7 @@ export const RpSigma = [
     "nome": "KARL CESAR DA ROSS SANTOS",
     "matricula": 501040908,
     "porcentagem": 0.4,
-    "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ADRIANO%20CESAR%20MARTINS%20DHESSICHK.png"
+    "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/KARL-CESAR-DA-ROSS-SANTOS.png"
   }
  ]
 

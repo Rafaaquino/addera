@@ -319,7 +319,7 @@ export const RpAlfa = [
     "nome": "KAREN CRISTINA MARQUES GONCALVES",
     "matricula": 304040103,
     "porcentagem": 0.4175,
-    "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/sem-foto.png"
+    "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/Karen-Cristina-Marques-Goncalves.png"
   },
   {
     "id": 47,
@@ -340,7 +340,7 @@ export const RpAlfa = [
     "nome": "DANILO KENNEDY MARTINS",
     "matricula": 303020102,
     "porcentagem": 0.4157,
-    "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ADRIANO%20CESAR%20MARTINS%20DHESSICHK.png"
+    "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/Danilo-Kennedy-Martins.png"
   },
   {
     "id": 50,

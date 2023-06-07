@@ -1139,7 +1139,7 @@ const RpDelta = [
         "nome": "JEFFERSSON RODRIGUES DE OLIVEIRA",
         "matricula": 303060403,
         "porcentagem": 0.5,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ADRIANO%20CESAR%20MARTINS%20DHESSICHK.png"
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/Jefferson-Rodrigues-de-Oliveira.png"
     },
     {
         "id": 15,
@@ -1412,7 +1412,7 @@ const RpDelta = [
         "nome": "LARISSA DE MATOS COSTHAISME",
         "matricula": 305040403,
         "porcentagem": 0.412,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/LARISSA%20D.%20M.%20COSTHAISME%20.png"
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/Larissa-de-Matos-Costhaisme.png"
     },
     {
         "id": 54,
@@ -1857,7 +1857,7 @@ const RpAlfa = [
         "nome": "KAREN CRISTINA MARQUES GONCALVES",
         "matricula": 304040103,
         "porcentagem": 0.4175,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/sem-foto.png"
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/Karen-Cristina-Marques-Goncalves.png"
     },
     {
         "id": 47,
@@ -1878,7 +1878,7 @@ const RpAlfa = [
         "nome": "DANILO KENNEDY MARTINS",
         "matricula": 303020102,
         "porcentagem": 0.4157,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ADRIANO%20CESAR%20MARTINS%20DHESSICHK.png"
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/Danilo-Kennedy-Martins.png"
     },
     {
         "id": 50,
@@ -2393,7 +2393,7 @@ const RpSigma = [
         "nome": "CARLOS ALBERTO FRIGOTTO",
         "matricula": 501030906,
         "porcentagem": 0.497,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/CARLOS%20A.%20FRIGOTTO.png"
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/Carlos-Alberto-Frigotto.png"
     },
     {
         "id": 9,
@@ -2568,7 +2568,7 @@ const RpSigma = [
         "nome": "ALEXANDRE BARREIRO DIAS",
         "matricula": 501040905,
         "porcentagem": 0.419,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ADRIANO%20CESAR%20MARTINS%20DHESSICHK.png"
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ALEXANDRE-BARREIRO-DIAS.png"
     },
     {
         "id": 34,
@@ -2624,7 +2624,7 @@ const RpSigma = [
         "nome": "KARL CESAR DA ROSS SANTOS",
         "matricula": 501040908,
         "porcentagem": 0.4,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ADRIANO%20CESAR%20MARTINS%20DHESSICHK.png"
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/KARL-CESAR-DA-ROSS-SANTOS.png"
     }
 ];
 
