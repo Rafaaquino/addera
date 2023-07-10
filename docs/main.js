@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\rafa_\Desktop\Freelas\Argumento comunicacao\lp\landingpage\src\main.ts */"zUnb");
+module.exports = __webpack_require__(/*! C:\Users\t03256\Desktop\Nova pasta\addera\src\main.ts */"zUnb");
 
 
 /***/ }),
@@ -205,7 +205,7 @@ function SigmaComponent_div_8_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", pessoa_r1.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](6, 4, pessoa_r1.porcentagem, "1.2-5"), " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](6, 4, pessoa_r1.porcentagem), " ");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](pessoa_r1.nome);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -248,7 +248,7 @@ class SigmaComponent {
     }
 }
 SigmaComponent.ɵfac = function SigmaComponent_Factory(t) { return new (t || SigmaComponent)(); };
-SigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: SigmaComponent, selectors: [["app-sigma"]], decls: 28, vars: 11, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/titulo_GDSIGMA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/titulo_GDSIGMA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function SigmaComponent_Template(rf, ctx) { if (rf & 1) {
+SigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: SigmaComponent, selectors: [["app-sigma"]], decls: 28, vars: 10, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/GDSIGMA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/GDSIGMA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function SigmaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 2);
@@ -261,7 +261,7 @@ SigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineCom
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "section");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](6, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](7, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, SigmaComponent_div_8_Template, 13, 7, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, SigmaComponent_div_8_Template, 13, 6, "div", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -299,11 +299,11 @@ SigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineCom
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](8);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngForOf", ctx.arquivos);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](9, _c0, ctx.showModal ? "block" : "none"));
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](8, _c0, ctx.showModal ? "block" : "none"));
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](7);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx.pessoaModal == null ? null : ctx.pessoaModal.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem, "1.2-5"), " ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem), " ");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.pessoaModal == null ? null : ctx.pessoaModal.nome);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -357,85 +357,85 @@ const GdAlfa = [
         "id": 1,
         "nome": "SAMUEL CALDAS BATISTA MARQUES",
         "matricula": 304050000,
-        "porcentagem": 0.544,
+        "porcentagem": 0.5411594412470545,
         "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_SAMUEL.png"
     },
     {
         "id": 2,
         "nome": "DANIEL RIBEIRO DA COSTA",
         "matricula": 303060000,
-        "porcentagem": 0.505,
+        "porcentagem": 0.5011437377727794,
         "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANIEL.png"
     },
     {
         "id": 3,
-        "nome": "THIAGO PEREIRA MONTE REY",
-        "matricula": 305040000,
-        "porcentagem": 0.4859,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_THIAGO.png"
+        "nome": "LUCIANO PEREIRA BORGES JUNIOR",
+        "matricula": 303040000,
+        "porcentagem": 0.48349488883507924,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_LUCIANO.png"
     },
     {
         "id": 4,
-        "nome": "LUCIANO PEREIRA BORGES JUNIOR",
-        "matricula": 303040000,
-        "porcentagem": 0.484,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_LUCIANO.png"
+        "nome": "THIAGO PEREIRA MONTE REY",
+        "matricula": 305040000,
+        "porcentagem": 0.4826454474525427,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_THIAGO.png"
     },
     {
         "id": 5,
         "nome": "MARCIO ALVES TEIXEIRA",
         "matricula": 304040000,
-        "porcentagem": 0.4678,
+        "porcentagem": 0.46067195677270173,
         "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_MARCIO.png"
     },
     {
         "id": 6,
         "nome": "DANILO MACEDO LIMA",
         "matricula": 302080000,
-        "porcentagem": 0.4456,
+        "porcentagem": 0.4367179011176816,
         "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANILO.png"
     },
     {
         "id": 7,
         "nome": "PAULO ROBERTO LOUREIRO DE ALMEIDA ASSIS",
         "matricula": 301070000,
-        "porcentagem": 0.4417,
+        "porcentagem": 0.4365842204337673,
         "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta//GD_ALFA_DELTA_PAULO_ALMEIDA.png"
     },
     {
         "id": 8,
         "nome": "WEMERSON TEOFILO DE OLIVEIRA",
         "matricula": 303050000,
-        "porcentagem": 0.4281,
+        "porcentagem": 0.42215435418643826,
         "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_WEMERSON.png"
     },
     {
         "id": 9,
         "nome": "PAULO SERGIO FEIJOLI JUNIOR",
         "matricula": 304080000,
-        "porcentagem": 0.4227,
+        "porcentagem": 0.41504376122957876,
         "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_PAULO_FEIJOLI.png"
     },
     {
         "id": 10,
         "nome": "JOAO DIRCEU DE TOLEDO JUNIOR",
         "matricula": 302010000,
-        "porcentagem": 0.4111,
+        "porcentagem": 0.40574399781691106,
         "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/JOAO%20DIRCEU%20DE%20TOLEDO%20JUNIOR.png"
     },
     {
         "id": 11,
-        "nome": "FELIPE MULLER",
-        "matricula": 301030000,
-        "porcentagem": 0.4056,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/FELIPE%20MULLER.png"
+        "nome": "RENATA PEREIRA DA SILVA",
+        "matricula": 302060000,
+        "porcentagem": 0.40344610469503156,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_RENATA.png"
     },
     {
         "id": 12,
-        "nome": "RENATA PEREIRA DA SILVA",
-        "matricula": 302060000,
-        "porcentagem": 0.4035,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_RENATA.png"
+        "nome": "FELIPE MULLER",
+        "matricula": 301030000,
+        "porcentagem": 0.40237832047245514,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/FELIPE%20MULLER.png"
     }
 ];
 
@@ -486,7 +486,7 @@ function RpAlfaComponent_div_8_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", pessoa_r1.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](6, 4, pessoa_r1.porcentagem, "1.2-5"), " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](6, 4, pessoa_r1.porcentagem), " ");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](pessoa_r1.nome);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -529,7 +529,7 @@ class RpAlfaComponent {
     }
 }
 RpAlfaComponent.ɵfac = function RpAlfaComponent_Factory(t) { return new (t || RpAlfaComponent)(); };
-RpAlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: RpAlfaComponent, selectors: [["app-rp-alfa"]], decls: 28, vars: 11, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/titulo_REPALFA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/titulo_REPALFA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function RpAlfaComponent_Template(rf, ctx) { if (rf & 1) {
+RpAlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: RpAlfaComponent, selectors: [["app-rp-alfa"]], decls: 28, vars: 10, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/REPALFA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/REPALFA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function RpAlfaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 2);
@@ -542,7 +542,7 @@ RpAlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "section");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](6, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](7, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, RpAlfaComponent_div_8_Template, 13, 7, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, RpAlfaComponent_div_8_Template, 13, 6, "div", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -580,11 +580,11 @@ RpAlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](8);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngForOf", ctx.arquivos);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](9, _c0, ctx.showModal ? "block" : "none"));
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](8, _c0, ctx.showModal ? "block" : "none"));
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](7);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx.pessoaModal == null ? null : ctx.pessoaModal.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem, "1.2-5"), " ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem), " ");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.pessoaModal == null ? null : ctx.pessoaModal.nome);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -638,7 +638,7 @@ function RpSigmaComponent_div_8_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", pessoa_r1.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](6, 4, pessoa_r1.porcentagem, "1.2-5"), " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](6, 4, pessoa_r1.porcentagem), " ");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](pessoa_r1.nome);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -681,7 +681,7 @@ class RpSigmaComponent {
     }
 }
 RpSigmaComponent.ɵfac = function RpSigmaComponent_Factory(t) { return new (t || RpSigmaComponent)(); };
-RpSigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: RpSigmaComponent, selectors: [["app-rp-sigma"]], decls: 28, vars: 11, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/titulo_REPSIGMA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/titulo_REPSIGMA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function RpSigmaComponent_Template(rf, ctx) { if (rf & 1) {
+RpSigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: RpSigmaComponent, selectors: [["app-rp-sigma"]], decls: 28, vars: 10, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/REPSIGMA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/REPSIGMA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function RpSigmaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 2);
@@ -694,7 +694,7 @@ RpSigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "section");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](6, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](7, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, RpSigmaComponent_div_8_Template, 13, 7, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, RpSigmaComponent_div_8_Template, 13, 6, "div", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -732,11 +732,11 @@ RpSigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](8);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngForOf", ctx.arquivos);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](9, _c0, ctx.showModal ? "block" : "none"));
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](8, _c0, ctx.showModal ? "block" : "none"));
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](7);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx.pessoaModal == null ? null : ctx.pessoaModal.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem, "1.2-5"), " ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem), " ");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.pessoaModal == null ? null : ctx.pessoaModal.nome);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -887,7 +887,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "app-menu");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "router-outlet");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, directives: [_shared_components_menu_menu_component__WEBPACK_IMPORTED_MODULE_1__["MenuComponent"], _angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterOutlet"]], styles: [".bg[_ngcontent-%COMP%] {\r\n  background-image: url('bg-desk.jpg');\r\n  background-repeat: no-repeat;\r\n  background-size: cover;\r\n  background-position: top center;\r\n}\r\n\r\n@media screen and (max-width: 468px) {\r\n  .bg[_ngcontent-%COMP%] {\r\n    background-image: url('bg.jpg');\r\n  }\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFwcC5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0Usb0NBQXFEO0VBQ3JELDRCQUE0QjtFQUM1QixzQkFBc0I7RUFDdEIsK0JBQStCO0FBQ2pDOztBQUVBO0VBQ0U7SUFDRSwrQkFBZ0Q7RUFDbEQ7QUFDRiIsImZpbGUiOiJhcHAuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5iZyB7XHJcbiAgYmFja2dyb3VuZC1pbWFnZTogdXJsKCcuLi9hc3NldHMvaW1hZ2VzL2JnLWRlc2suanBnJyk7XHJcbiAgYmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDtcclxuICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xyXG4gIGJhY2tncm91bmQtcG9zaXRpb246IHRvcCBjZW50ZXI7XHJcbn1cclxuXHJcbkBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDQ2OHB4KSB7XHJcbiAgLmJnIHtcclxuICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgnLi4vYXNzZXRzL2ltYWdlcy9iZy5qcGcnKTtcclxuICB9XHJcbn1cclxuIl19 */"] });
+    } }, directives: [_shared_components_menu_menu_component__WEBPACK_IMPORTED_MODULE_1__["MenuComponent"], _angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterOutlet"]], styles: [".bg[_ngcontent-%COMP%] {\r\n  background-image: url('https://www.oscaraddera.com.br/bg-desk.jpg');\r\n  background-repeat: no-repeat;\r\n  background-size: cover;\r\n  background-position: top center;\r\n}\r\n\r\n@media screen and (max-width: 468px) {\r\n  .bg[_ngcontent-%COMP%] {\r\n    background-image: url('https://www.oscaraddera.com.br/bg.jpg');\r\n  }\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFwcC5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsbUVBQW1FO0VBQ25FLDRCQUE0QjtFQUM1QixzQkFBc0I7RUFDdEIsK0JBQStCO0FBQ2pDOztBQUVBO0VBQ0U7SUFDRSw4REFBOEQ7RUFDaEU7QUFDRiIsImZpbGUiOiJhcHAuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5iZyB7XHJcbiAgYmFja2dyb3VuZC1pbWFnZTogdXJsKCdodHRwczovL3d3dy5vc2NhcmFkZGVyYS5jb20uYnIvYmctZGVzay5qcGcnKTtcclxuICBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xyXG4gIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XHJcbiAgYmFja2dyb3VuZC1wb3NpdGlvbjogdG9wIGNlbnRlcjtcclxufVxyXG5cclxuQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNDY4cHgpIHtcclxuICAuYmcge1xyXG4gICAgYmFja2dyb3VuZC1pbWFnZTogdXJsKCdodHRwczovL3d3dy5vc2NhcmFkZGVyYS5jb20uYnIvYmcuanBnJyk7XHJcbiAgfVxyXG59XHJcbiJdfQ== */"] });
 
 
 /***/ }),
@@ -1047,428 +1047,428 @@ const RpDelta = [
         "id": 1,
         "nome": "CARINE BENDON LEITE",
         "matricula": 304050403,
-        "porcentagem": 0.646,
+        "porcentagem": 0.6446924883247764,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/CARINE%20BENDON%20LEITE.png"
     },
     {
         "id": 2,
         "nome": "MICHEL DIAS BEZERRA",
         "matricula": 305040401,
-        "porcentagem": 0.579,
+        "porcentagem": 0.5801932733700924,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/MICHEL%20DIAS%20BEZERRA.png"
     },
     {
         "id": 3,
         "nome": "NATALIA COSTA PAIVA DA SILVA",
         "matricula": 304040401,
-        "porcentagem": 0.573,
+        "porcentagem": 0.5712375594168364,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/NATALIA%20COSTA%20PAIVA%20DA%20SILVA.png"
     },
     {
         "id": 4,
         "nome": "ERIC MARSHALL ROCHA",
         "matricula": 303040404,
-        "porcentagem": 0.561,
+        "porcentagem": 0.5611333548729621,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/ERIC%20MARSHALL%20ROCHA.png"
     },
     {
         "id": 5,
         "nome": "RODRIGO DE SOUZA RIBEIRO",
         "matricula": 302010405,
-        "porcentagem": 0.561,
+        "porcentagem": 0.5524862687259058,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/RODRIGO%20DE%20SOUZA%20RIBEIRO.png"
     },
     {
         "id": 6,
         "nome": "DIEGO ANTONIO STRAPAZON",
         "matricula": 301030405,
-        "porcentagem": 0.548,
+        "porcentagem": 0.5461767793931946,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/DIEGO%20ANTONIO%20STRAPAZON%20.png"
     },
     {
         "id": 7,
         "nome": "LORRAYNE DE SOUSA SOTERO",
         "matricula": 304050401,
-        "porcentagem": 0.545,
+        "porcentagem": 0.5423070175303004,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/LORRAYNE%20D.%20S.%20SOTERO.png"
     },
     {
         "id": 8,
-        "nome": "CLELIA FRANCIELE P. BESSANI",
+        "nome": "CLELIA FRANCIELE POSSOBON BESSANI",
         "matricula": 303060404,
-        "porcentagem": 0.534,
+        "porcentagem": 0.5302325171774129,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/CLELIA%20F.%20P.%20BESSANI.png"
     },
     {
         "id": 9,
-        "nome": "MARCELINO NEI JUNKES",
-        "matricula": 301070401,
-        "porcentagem": 0.525,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/MARCELINO%20NEI%20JUNKES.png"
+        "nome": "ANA PAULA DA FONSECA BARBOSA",
+        "matricula": 304050402,
+        "porcentagem": 0.5214404054940115,
+        "img": ""
     },
     {
         "id": 10,
-        "nome": "FERNANDO COLARES COSTA BILATO",
-        "matricula": 302090401,
-        "porcentagem": 0.515,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/FERNANDO%20C.%20COSTA%20BILATO.png"
+        "nome": "MARCELINO NEI JUNKES",
+        "matricula": 301070401,
+        "porcentagem": 0.5179618201773429,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/MARCELINO%20NEI%20JUNKES.png"
     },
     {
         "id": 11,
         "nome": "THAISSA ALVES LAGO",
         "matricula": 304040402,
-        "porcentagem": 0.512,
+        "porcentagem": 0.5057733140008293,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/THAISSA%20ALVES%20LAGO.png"
     },
     {
         "id": 12,
         "nome": "JAILSON FAUSTINO PEREIRA",
         "matricula": 303060401,
-        "porcentagem": 0.507,
+        "porcentagem": 0.5038770598566682,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/JAILSON%20F.%20PEREIRA.png"
     },
     {
         "id": 13,
-        "nome": "FABIANA ANDREA S. PIRES",
-        "matricula": 302080402,
-        "porcentagem": 0.504,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/FABIANA%20ANDREA%20S.%20PIRES.png"
-    },
-    {
-        "id": 14,
         "nome": "JEFFERSSON RODRIGUES DE OLIVEIRA",
         "matricula": 303060403,
-        "porcentagem": 0.5,
+        "porcentagem": 0.4927225103648736,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/Jefferson-Rodrigues-de-Oliveira.png"
     },
     {
-        "id": 15,
+        "id": 14,
         "nome": "MATIZA ODORICIO FREIRE",
         "matricula": 301070402,
-        "porcentagem": 0.497,
+        "porcentagem": 0.48619516785752426,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/MATIZA%20O.%20FREIRE.png"
     },
     {
+        "id": 15,
+        "nome": "FABIANA ANDREA STEVANATTO PIRES",
+        "matricula": 302080402,
+        "porcentagem": 0.4837095419269466,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/FABIANA%20ANDREA%20S.%20PIRES.png"
+    },
+    {
         "id": 16,
-        "nome": "APARECIDA CAVALCANTE SALES",
-        "matricula": 302020404,
-        "porcentagem": 0.482,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/APARECIDA%20C.%20SALES.png"
+        "nome": "FERNANDO COLARES COSTA BILATO",
+        "matricula": 302090401,
+        "porcentagem": 0.4815289859966313,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/FERNANDO%20C.%20COSTA%20BILATO.png"
     },
     {
         "id": 17,
-        "nome": "ALEX MARCELO DA SILVA",
-        "matricula": 302040404,
-        "porcentagem": 0.481,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/ALEX%20MARCELO%20DA%20SILVA.png"
+        "nome": "APARECIDA CAVALCANTE SALES",
+        "matricula": 302020404,
+        "porcentagem": 0.48068020816757545,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/APARECIDA%20C.%20SALES.png"
     },
     {
         "id": 18,
         "nome": "GILLES PEREIRA TELES",
         "matricula": 303060402,
-        "porcentagem": 0.475,
+        "porcentagem": 0.47297191201262523,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/GILLES%20PEREIRA%20TELES.png"
     },
     {
         "id": 19,
         "nome": "LUCIVANIA PEREIRA ANTUNES",
         "matricula": 303050404,
-        "porcentagem": 0.472,
+        "porcentagem": 0.469860027104709,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/LUCIVANIA%20P.%20ANTUNES.png"
     },
     {
         "id": 20,
         "nome": "GUILHERME SCARAZZATE",
         "matricula": 303030402,
-        "porcentagem": 0.471,
+        "porcentagem": 0.4698142042266696,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/GUILHERME%20SCARAZZATE.png"
     },
     {
         "id": 21,
         "nome": "MARIELEN CRISTINA DELALATA",
         "matricula": 303010404,
-        "porcentagem": 0.47,
+        "porcentagem": 0.46966048950408484,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/MARIELEN%20C.%20DELALATA.png"
     },
     {
         "id": 22,
-        "nome": "TERESA CRISTINA MOREIRA TORRAO",
-        "matricula": 304070401,
-        "porcentagem": 0.469,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/TERESA%20C.%20M.%20TORRAO.png"
+        "nome": "ESTHERFANE TEIXEIRA DE OLIVEIRA",
+        "matricula": 305040402,
+        "porcentagem": 0.4672631633770206,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/ESTHERFANE%20T.%20DE%20OLIVEIRA.png"
     },
     {
         "id": 23,
         "nome": "SARA GEANEZE",
         "matricula": 302020405,
-        "porcentagem": 0.467,
+        "porcentagem": 0.46572449965007606,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/SARA%20GEANEZE.png"
     },
     {
         "id": 24,
-        "nome": "ESTHERFANE TEIXEIRA DE OLIVEIRA",
-        "matricula": 305040402,
-        "porcentagem": 0.467,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/ESTHERFANE%20T.%20DE%20OLIVEIRA.png"
-    },
-    {
-        "id": 25,
-        "nome": "FERNANDO DA CRUZ GOUVEA NETO",
-        "matricula": 304080402,
-        "porcentagem": 0.466,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/FERNANDO%20D.%20C.%20GOUVEA%20NETO.png"
-    },
-    {
-        "id": 26,
-        "nome": "RAFAEL MOYSES CASA NOVA",
-        "matricula": 304080403,
-        "porcentagem": 0.462,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/RAFAEL%20M.%20CASA%20NOVA.png"
-    },
-    {
-        "id": 27,
-        "nome": "THAIS MARTINS BOAVENTURA",
-        "matricula": 303090404,
-        "porcentagem": 0.461,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/THAIS%20M.%20BOAVENTURA%20.png"
-    },
-    {
-        "id": 28,
-        "nome": "VIVIANE MATIAS DE CARVALHO",
-        "matricula": 303050401,
-        "porcentagem": 0.46,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/VIVIANE%20MATIAS%20DE%20CARVALHO%20.png"
-    },
-    {
-        "id": 29,
-        "nome": "BRUNA A GABRIELA S. TEIXEIRA",
-        "matricula": 304050404,
-        "porcentagem": 0.458,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/BRUNA%20A%20G.%20S.%20TEIXEIRA.png"
-    },
-    {
-        "id": 30,
         "nome": "FABIO FELISMINO PEREIRA",
         "matricula": 302060401,
-        "porcentagem": 0.457,
+        "porcentagem": 0.4648399817419721,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/FABIO%20FELISMINO%20PEREIRA%20.png"
     },
     {
+        "id": 25,
+        "nome": "TERESA CRISTINA MOREIRA TORRAO",
+        "matricula": 304070401,
+        "porcentagem": 0.4635336101338902,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/TERESA%20C.%20M.%20TORRAO.png"
+    },
+    {
+        "id": 26,
+        "nome": "FERNANDO DA CRUZ GOUVEA NETO",
+        "matricula": 304080402,
+        "porcentagem": 0.4601174960646671,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/FERNANDO%20D.%20C.%20GOUVEA%20NETO.png"
+    },
+    {
+        "id": 27,
+        "nome": "VIVIANE MATIAS DE CARVALHO",
+        "matricula": 303050401,
+        "porcentagem": 0.45874528831359707,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/VIVIANE%20MATIAS%20DE%20CARVALHO%20.png"
+    },
+    {
+        "id": 28,
+        "nome": "ALEX MARCELO DA SILVA",
+        "matricula": 302040404,
+        "porcentagem": 0.45455807511759977,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/ALEX%20MARCELO%20DA%20SILVA.png"
+    },
+    {
+        "id": 29,
+        "nome": "THAIS MARTINS BOAVENTURA",
+        "matricula": 303090404,
+        "porcentagem": 0.454342885534716,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/THAIS%20M.%20BOAVENTURA%20.png"
+    },
+    {
+        "id": 30,
+        "nome": "BRUNA A GABRIELA SANTOS TEIXEIRA",
+        "matricula": 304050404,
+        "porcentagem": 0.4539304524688987,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/BRUNA%20A%20G.%20S.%20TEIXEIRA.png"
+    },
+    {
         "id": 31,
-        "nome": "FERNANDA DA SILVA KONZEN",
-        "matricula": 301040403,
-        "porcentagem": 0.452,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/FERNANDA%20DA%20SILVA%20KONZEN.png"
+        "nome": "RAFAEL MOYSES CASA NOVA",
+        "matricula": 304080403,
+        "porcentagem": 0.4514942567951056,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/RAFAEL%20M.%20CASA%20NOVA.png"
     },
     {
         "id": 32,
         "nome": "ALLEC ROBSON CONTREIRAS DE OLIVEIRA",
         "matricula": 303040402,
-        "porcentagem": 0.445,
+        "porcentagem": 0.4473535537484667,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/ALLEC%20ROBSON%20C.%20DE%20OLIVEIRA.png"
     },
     {
         "id": 33,
-        "nome": "ARCELINO NETO SALES MARQUES",
-        "matricula": 305030404,
-        "porcentagem": 0.445,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/ARCELINO%20NETO%20SALES%20MARQUES.png"
+        "nome": "FERNANDA DA SILVA KONZEN",
+        "matricula": 301040403,
+        "porcentagem": 0.44652027674561856,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/FERNANDA%20DA%20SILVA%20KONZEN.png"
     },
     {
         "id": 34,
-        "nome": "PATRIK JOSE CAVALLI",
-        "matricula": 301010403,
-        "porcentagem": 0.444,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/PATRIK%20JOSE%20CAVALLI.png"
+        "nome": "ARCELINO NETO SALES MARQUES",
+        "matricula": 305030404,
+        "porcentagem": 0.43874346869795633,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/ARCELINO%20NETO%20SALES%20MARQUES.png"
     },
     {
         "id": 35,
         "nome": "HENRIQUE MARCONDES SUAVE",
         "matricula": 302060402,
-        "porcentagem": 0.438,
-        "img": ""
+        "porcentagem": 0.43579024092299495,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/HENRIQUE%20M.%20SUAVE.png"
     },
     {
         "id": 36,
         "nome": "LUIS FERNANDO RESENDE",
         "matricula": 301030404,
-        "porcentagem": 0.435,
+        "porcentagem": 0.4348862179134811,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/LUIS%20FERNANDO%20RESENDE.png"
     },
     {
         "id": 37,
-        "nome": "SIMONE LAISE NEVES",
-        "matricula": 303020404,
-        "porcentagem": 0.435,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/SIMONE%20LAISE%20NEVES.png"
+        "nome": "PATRIK JOSE CAVALLI",
+        "matricula": 301010403,
+        "porcentagem": 0.43406706019739966,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/PATRIK%20JOSE%20CAVALLI.png"
     },
     {
         "id": 38,
         "nome": "FABIANA MICHALIZEN",
         "matricula": 301060405,
-        "porcentagem": 0.431,
+        "porcentagem": 0.43064702878894306,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/FABIANA%20MICHALIZEN.png"
     },
     {
         "id": 39,
         "nome": "PAMELLA MARQUES BERTONI",
         "matricula": 302060403,
-        "porcentagem": 0.43,
+        "porcentagem": 0.4284737038507692,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/PAMELLA%20M.%20BERTONI%20.png"
     },
     {
         "id": 40,
-        "nome": "ANDERSON VARGAS DE MEDEIROS",
+        "nome": "ANDERSON  VARGAS DE MEDEIROS",
         "matricula": 301040404,
-        "porcentagem": 0.428,
+        "porcentagem": 0.4259410170292746,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/ANDERSON%20%20V.%20DE%20MEDEIROS.png"
     },
     {
         "id": 41,
-        "nome": "JEFERSON LUIZ RIBEIRO",
-        "matricula": 302080404,
-        "porcentagem": 0.427,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/JEFERSON%20LUIZ%20RIBEIRO.png"
-    },
-    {
-        "id": 42,
         "nome": "ANA GABRIELLA RIBEIRO SAMPAIO",
         "matricula": 305010401,
-        "porcentagem": 0.427,
+        "porcentagem": 0.424195160002937,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/ANA%20GABRIELLA%20RIBEIRO%20SAMPAIO.png"
     },
     {
+        "id": 42,
+        "nome": "SIMONE LAISE NEVES",
+        "matricula": 303020404,
+        "porcentagem": 0.42387947868565445,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/SIMONE%20LAISE%20NEVES.png"
+    },
+    {
         "id": 43,
-        "nome": "MAURI FURLANETTO",
-        "matricula": 302080401,
-        "porcentagem": 0.425,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/MAURI%20FURLANETTO.png"
+        "nome": "JEFERSON LUIZ RIBEIRO",
+        "matricula": 302080404,
+        "porcentagem": 0.4238382362034286,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/JEFERSON%20LUIZ%20RIBEIRO.png"
     },
     {
         "id": 44,
-        "nome": "LUIZ EDUARDO EUSTAQUIO PINTO",
-        "matricula": 303080401,
-        "porcentagem": 0.424,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/LUIZ%20EDUARDO%20EUSTAQUIO%20PINTO.png"
+        "nome": "CAMILA PINZON ANDRETTA",
+        "matricula": 301060402,
+        "porcentagem": 0.42125321080829986,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/CAMILA%20PINZON%20ANDRETTA.png"
     },
     {
         "id": 45,
-        "nome": "MEIRE JEANI ARAUJO F. PANTOJA",
+        "nome": "MEIRE JEANI ARAUJO FERREIRA PANTOJA",
         "matricula": 305040404,
-        "porcentagem": 0.422,
+        "porcentagem": 0.41820787984707775,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/MEIRE%20JEANI%20A.%20F.%20PANTOJA.png"
     },
     {
         "id": 46,
-        "nome": "CAMILA PINZON ANDRETTA",
-        "matricula": 301060402,
-        "porcentagem": 0.422,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/CAMILA%20PINZON%20ANDRETTA.png"
+        "nome": "LUIZ EDUARDO EUSTAQUIO PINTO",
+        "matricula": 303080401,
+        "porcentagem": 0.4161105191000023,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/LUIZ%20EDUARDO%20EUSTAQUIO%20PINTO.png"
     },
     {
         "id": 47,
-        "nome": "WARLEY DA SILVA BATISTA",
-        "matricula": 304040403,
-        "porcentagem": 0.417,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/WARLEY%20DA%20SILVA%20BATISTA.png"
+        "nome": "FRANCISCO LEONARDO FAUSTINO FILHO",
+        "matricula": 305010402,
+        "porcentagem": 0.4152006157203939,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/FRANCISCO%20L.%20F.%20FILHO.png"
     },
     {
         "id": 48,
         "nome": "JAIME LUIS SCHLOGL MOZER",
         "matricula": 301080403,
-        "porcentagem": 0.417,
+        "porcentagem": 0.411160854394855,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/JAIME%20LUIS%20SCHLOGL%20MOZER.png"
     },
     {
         "id": 49,
-        "nome": "FRANCISCO LEONARDO FAUSTINO FILHO",
-        "matricula": 305010402,
-        "porcentagem": 0.416,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/FRANCISCO%20L.%20F.%20FILHO.png"
-    },
-    {
-        "id": 50,
         "nome": "JESSICA FERREIRA",
         "matricula": 303020402,
-        "porcentagem": 0.416,
+        "porcentagem": 0.4108561340634104,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/JESSICA%20FERREIRA.png"
     },
     {
-        "id": 51,
-        "nome": "CARLOS CESAR MORAES BESSA",
-        "matricula": 304060404,
-        "porcentagem": 0.415,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/CARLOS%20CESAR%20MORAES%20BESSA.png"
+        "id": 50,
+        "nome": "ESTEFANIE DANDARA COSTA MONREAL",
+        "matricula": 302030401,
+        "porcentagem": 0.409885430715756,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/ESTEFANIE%20DANDARA%20COSTA%20MONREAL.png"
     },
     {
-        "id": 52,
+        "id": 51,
         "nome": "GISELE CUNHA MENDES PEREIRA",
         "matricula": 302080403,
-        "porcentagem": 0.413,
+        "porcentagem": 0.4095018500643747,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/GISELE%20CUNHA%20MENDES%20PEREIRA.png"
     },
     {
+        "id": 52,
+        "nome": "THIAGO FERREIRA JANSEN",
+        "matricula": 305030403,
+        "porcentagem": 0.40924911906357436,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/THIAGO%20F.%20JANSEN.png"
+    },
+    {
         "id": 53,
-        "nome": "LARISSA DE MATOS COSTHAISME",
-        "matricula": 305040403,
-        "porcentagem": 0.412,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/Larissa-de-Matos-Costhaisme.png"
+        "nome": "GLEIDSON NORONHA DOS SANTOS",
+        "matricula": 302010403,
+        "porcentagem": 0.40887635436869146,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/GLEIDSON%20NORONHA%20DOS%20SANTOS.png"
     },
     {
         "id": 54,
-        "nome": "ALEXANDRE CESAR M. COIMBRA",
-        "matricula": 303070403,
-        "porcentagem": 0.41,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/ALEXANDRE%20CESAR%20MONTEIRO%20COIMBRA.png"
+        "nome": "WARLEY DA SILVA BATISTA",
+        "matricula": 304040403,
+        "porcentagem": 0.40852493654876515,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/WARLEY%20DA%20SILVA%20BATISTA.png"
     },
     {
         "id": 55,
         "nome": "FERNANDO RODRIGUES",
         "matricula": 302040405,
-        "porcentagem": 0.41,
+        "porcentagem": 0.40841570939930216,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/FERNANDO%20RODRIGUES.png"
     },
     {
         "id": 56,
-        "nome": "THIAGO FERREIRA JANSEN",
-        "matricula": 305030403,
-        "porcentagem": 0.409,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/THIAGO%20F.%20JANSEN.png"
+        "nome": "CARLOS CESAR MORAES BESSA",
+        "matricula": 304060404,
+        "porcentagem": 0.40736548254803534,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/CARLOS%20CESAR%20MORAES%20BESSA.png"
     },
     {
         "id": 57,
-        "nome": "ESTEFANIE DANDARA COSTA MONREAL",
-        "matricula": 302030401,
-        "porcentagem": 0.409,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/ESTEFANIE%20DANDARA%20COSTA%20MONREAL.png"
+        "nome": "EDUARDO CARLOS ALVARENGA",
+        "matricula": 303080404,
+        "porcentagem": 0.40339656098266763,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/EDUARDO%20CARLOS%20ALVARENGA.png"
     },
     {
         "id": 58,
-        "nome": "GLEIDSON NORONHA DOS SANTOS",
-        "matricula": 302010403,
-        "porcentagem": 0.408,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/GLEIDSON%20NORONHA%20DOS%20SANTOS.png"
-    },
-    {
-        "id": 59,
-        "nome": "CAIO JULIO DE SOUSA TELES",
-        "matricula": 303070402,
-        "porcentagem": 0.406,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/CAIO%20JULIO%20DE%20SOUSA%20TELES.png"
-    },
-    {
-        "id": 60,
-        "nome": "DANIEL ANTONIO B C DE OLIVEIRA",
+        "nome": "DANIEL ANTONIO BARRETO CARVALHO DE OLIVEIRA",
         "matricula": 301080404,
-        "porcentagem": 0.405,
+        "porcentagem": 0.4021523759944548,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/DANIEL%20ANTONIO%20BARRETO%20CARVALHO%20DE%20OLIVEIRA.png"
     },
     {
+        "id": 59,
+        "nome": "LARISSA DE MATOS COSTHAISME",
+        "matricula": 305040403,
+        "porcentagem": 0.401811147897093,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/Larissa-de-Matos-Costhaisme.png"
+    },
+    {
+        "id": 60,
+        "nome": "CAIO JULIO DE SOUSA TELES",
+        "matricula": 303070402,
+        "porcentagem": 0.4017989524572963,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/CAIO%20JULIO%20DE%20SOUSA%20TELES.png"
+    },
+    {
         "id": 61,
-        "nome": "EDUARDO CARLOS ALVARENGA",
-        "matricula": 303080404,
-        "porcentagem": 0.404,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/EDUARDO%20CARLOS%20ALVARENGA.png"
+        "nome": "LUCIANO DONISETE FERNANDES FELICIANO",
+        "matricula": 302090402,
+        "porcentagem": 0.3999785036974113,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/LUCIANO%20DONISETE%20FERNANDES%20FELICIANO,png"
     }
 ];
 
@@ -1490,35 +1490,35 @@ const Gdsigma = [
         "id": 1,
         "nome": "NAICK FELIPE SANTOS CUNHA",
         "matricula": 501070000,
-        "porcentagem": 0.4482,
+        "porcentagem": 0.443,
         "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/GD_SIGMA_NAICK.png"
     },
     {
         "id": 2,
         "nome": "LUCIANO LUCIO FERREIRA XAVIER",
         "matricula": 501080000,
-        "porcentagem": 0.4429,
+        "porcentagem": 0.43971088922310353,
         "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/GD_SIGMA_LUCIANO.png"
     },
     {
         "id": 3,
         "nome": "MARCIO PERESSIN",
         "matricula": 501030000,
-        "porcentagem": 0.412,
+        "porcentagem": 0.40959645286852564,
         "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/GD_SIGMA_MARCIO.png"
     },
     {
         "id": 4,
         "nome": "RENATA MARTINO DE CARVALHO LEAL",
         "matricula": 502050000,
-        "porcentagem": 0.4051,
+        "porcentagem": 0.4009193896748955,
         "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/RENATA%20MARTINO%20DE%20CARVALHO%20LEAL.png"
     },
     {
         "id": 5,
         "nome": "LUCAS FELIPE CAHINO PARAISO DA COSTA",
         "matricula": 501060000,
-        "porcentagem": 0.4043,
+        "porcentagem": 0.3996863018855659,
         "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/GD_SIGMA_LUCAS.png"
     }
 ];
@@ -1541,428 +1541,428 @@ const RpAlfa = [
         "id": 1,
         "nome": "LEONARDO AUGUSTO DE SOUZA MATTOS",
         "matricula": 304050103,
-        "porcentagem": 0.6457,
+        "porcentagem": 0.6446924883247764,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20LEONARDO_MATTOS.png"
     },
     {
         "id": 2,
         "nome": "ANNE CAROLINE PADINHA REGIS RODRIGUES",
         "matricula": 305040101,
-        "porcentagem": 0.5789,
+        "porcentagem": 0.5801932733700924,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20ANNE.png"
     },
     {
         "id": 3,
         "nome": "LUCIANA MEDEIROS KNUPP",
         "matricula": 304040101,
-        "porcentagem": 0.5734,
+        "porcentagem": 0.5712375594168364,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20LUCIANA.png"
     },
     {
         "id": 4,
         "nome": "JOAO BATISTA FERREIRA",
         "matricula": 303040104,
-        "porcentagem": 0.5612,
+        "porcentagem": 0.5611333548729621,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20JOAO.png"
     },
     {
         "id": 5,
         "nome": "ALESSANDRO REIS DE ALMEIDA",
         "matricula": 302010105,
-        "porcentagem": 0.5609,
+        "porcentagem": 0.5524862687259058,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20ALESSANDRO.png"
     },
     {
         "id": 6,
         "nome": "NILTON CASTELAR PINHEIRO KLEIN",
         "matricula": 301030105,
-        "porcentagem": 0.5482,
+        "porcentagem": 0.5461767793931946,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20NILTON.png"
     },
     {
         "id": 7,
         "nome": "CARLOS AUGUSTO OLIVEIRA MUNIZ",
         "matricula": 304050101,
-        "porcentagem": 0.5455,
+        "porcentagem": 0.5423070175303004,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20CARLOS.png"
     },
     {
         "id": 8,
         "nome": "JONATHAN COSTA SENA",
         "matricula": 303060104,
-        "porcentagem": 0.5338,
+        "porcentagem": 0.5302325171774129,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20JONATHAN_COSTA.png"
     },
     {
         "id": 9,
-        "nome": "JOSE CARLOS AMARAL",
-        "matricula": 301070101,
-        "porcentagem": 0.5252,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20JOSE_CARLOS.png"
+        "nome": "WATHYDIR CERQUEIRA COSTA",
+        "matricula": 304050102,
+        "porcentagem": 0.5214404054940115,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20WATHYDIR.png"
     },
     {
         "id": 10,
-        "nome": "WATHYDIR CERQUEIRA COSTA",
-        "matricula": 304050102,
-        "porcentagem": 0.5243,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20WATHYDIR.png"
+        "nome": "JOSE CARLOS AMARAL",
+        "matricula": 301070101,
+        "porcentagem": 0.5179618201773429,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20JOSE_CARLOS.png"
     },
     {
         "id": 11,
         "nome": "JANAINA LISBOA FERREIRA SILVA",
         "matricula": 303040103,
-        "porcentagem": 0.5203,
+        "porcentagem": 0.5155885975011545,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/JANAINA%20LISBOA%20FERREIRA%20SILVA.png"
     },
     {
         "id": 12,
-        "nome": "ROBERTO PACHECO GARCIA",
-        "matricula": 302090101,
-        "porcentagem": 0.5148,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20ROBERTO.png"
-    },
-    {
-        "id": 13,
         "nome": "CARLA DE OLIVEIRA BARBATO",
         "matricula": 304040102,
-        "porcentagem": 0.5116,
+        "porcentagem": 0.5057733140008293,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20CARLA.png"
     },
     {
-        "id": 14,
+        "id": 13,
         "nome": "MONIQUE SOARES IUASSE FERNANDES",
         "matricula": 303060101,
-        "porcentagem": 0.5075,
+        "porcentagem": 0.5038770598566682,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20MONIQUE.png"
+    },
+    {
+        "id": 14,
+        "nome": "PAULO CEZAR BONFIN",
+        "matricula": 301070102,
+        "porcentagem": 0.48619516785752426,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20PAULO_CESAR.png"
     },
     {
         "id": 15,
         "nome": "JESSICA MENDONCA DE ARAUJO REZENDE",
         "matricula": 302080102,
-        "porcentagem": 0.5037,
+        "porcentagem": 0.4837095419269466,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20JESSICA.png"
     },
     {
         "id": 16,
-        "nome": "PAULO CEZAR BONFIN",
-        "matricula": 301070102,
-        "porcentagem": 0.4967,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20PAULO_CESAR.png"
+        "nome": "ROBERTO PACHECO GARCIA",
+        "matricula": 302090101,
+        "porcentagem": 0.4815289859966313,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20ROBERTO.png"
     },
     {
         "id": 17,
-        "nome": "MAYRA THERESSA LEMOS MARTINEZ",
+        "nome": "MAYRA THERESSA LEMOS  MARTINEZ",
         "matricula": 302020104,
-        "porcentagem": 0.482,
+        "porcentagem": 0.48068020816757545,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20MAYRA.png"
     },
     {
         "id": 18,
-        "nome": "PRISCILLA TERTO SILVA SOUSA",
-        "matricula": 302040104,
-        "porcentagem": 0.4807,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20PRISCILLA.png"
-    },
-    {
-        "id": 19,
         "nome": "FELLIPE KOCH SANTOS",
         "matricula": 303060102,
-        "porcentagem": 0.4747,
+        "porcentagem": 0.47297191201262523,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20FELLIPE.png"
     },
     {
-        "id": 20,
+        "id": 19,
         "nome": "FABIO CASTELLUBER LUSTOSA",
         "matricula": 303050104,
-        "porcentagem": 0.4724,
+        "porcentagem": 0.469860027104709,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20FABIO.png"
     },
     {
-        "id": 21,
+        "id": 20,
         "nome": "PAULO ADRIANO MARANGONI",
         "matricula": 303030102,
-        "porcentagem": 0.4713,
+        "porcentagem": 0.4698142042266696,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20PAULO_ADRIANO.png"
     },
     {
-        "id": 22,
+        "id": 21,
         "nome": "ROGGER SILVEIRA DESSANTI",
         "matricula": 303010104,
-        "porcentagem": 0.4704,
+        "porcentagem": 0.46966048950408484,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20ROGGER.png"
     },
     {
-        "id": 23,
-        "nome": "MICHELE FOGACA TAVARES PEREIRA",
-        "matricula": 304070101,
-        "porcentagem": 0.4692,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20MICHELE.png"
+        "id": 22,
+        "nome": "HENRIQUE BRENDO DA SILVA OLIVEIRA",
+        "matricula": 305040102,
+        "porcentagem": 0.4672631633770206,
+        "img": "https://www.oscaraddera.com.br/assets/images/sem-foto.png"
     },
     {
-        "id": 24,
+        "id": 23,
         "nome": "LUIZ DE CASTRO DO AMARAL SILVA",
         "matricula": 302020105,
-        "porcentagem": 0.4673,
+        "porcentagem": 0.46572449965007606,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20LUIZ_AMARAL.png"
     },
     {
+        "id": 24,
+        "nome": "LEONARDO ALECRIM DE SOUZA JUNIOR",
+        "matricula": 302060101,
+        "porcentagem": 0.4648399817419721,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20LEONARDO_SOUZA.png"
+    },
+    {
         "id": 25,
-        "nome": "HENRIQUE BRENDO DA SILVA OLIVEIRA",
-        "matricula": 305040102,
-        "porcentagem": 0.4667,
-        "img": ""
+        "nome": "MICHELE FOGACA TAVARES PEREIRA",
+        "matricula": 304070101,
+        "porcentagem": 0.4635336101338902,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20MICHELE.png"
     },
     {
         "id": 26,
         "nome": "JULIANA CONCEICAO LOPES",
         "matricula": 304080102,
-        "porcentagem": 0.4658,
+        "porcentagem": 0.4601174960646671,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20JULIANA_LOPES.png"
     },
     {
         "id": 27,
-        "nome": "RICARDO MATTE VALIM",
-        "matricula": 303090104,
-        "porcentagem": 0.4613,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20RICARDO.png"
-    },
-    {
-        "id": 28,
         "nome": "GUILHERME XAVIER MANSO",
         "matricula": 303050101,
-        "porcentagem": 0.4598,
+        "porcentagem": 0.45874528831359707,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20GUILHERME.png"
     },
     {
+        "id": 28,
+        "nome": "PRISCILLA TERTO SILVA SOUSA",
+        "matricula": 302040104,
+        "porcentagem": 0.45455807511759977,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20PRISCILLA.png"
+    },
+    {
         "id": 29,
-        "nome": "JOEL GABRIEL GERALDO FRANKLIN",
-        "matricula": 304050104,
-        "porcentagem": 0.4581,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20JOEL.png"
+        "nome": "RICARDO MATTE VALIM",
+        "matricula": 303090104,
+        "porcentagem": 0.454342885534716,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20RICARDO.png"
     },
     {
         "id": 30,
-        "nome": "LEONARDO ALECRIM DE SOUZA JUNIOR",
-        "matricula": 302060101,
-        "porcentagem": 0.4574,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20LEONARDO_SOUZA.png"
+        "nome": "JOEL GABRIEL GERALDO FRANKLIN",
+        "matricula": 304050104,
+        "porcentagem": 0.4539304524688987,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20JOEL.png"
     },
     {
         "id": 31,
-        "nome": "PAULO RODRIGO SIZNANDES",
-        "matricula": 301040103,
-        "porcentagem": 0.4522,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20RODRIGO.png"
+        "nome": "ERICA DENISE FERNANDES FIUZA MUNIZ",
+        "matricula": 303040102,
+        "porcentagem": 0.4473535537484667,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20ERICA.png"
     },
     {
         "id": 32,
-        "nome": "ERICA DENISE FERNANDES FIUZA MUNIZ",
-        "matricula": 303040102,
-        "porcentagem": 0.4454,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20ERICA.png"
+        "nome": "PAULO RODRIGO SIZNANDES",
+        "matricula": 301040103,
+        "porcentagem": 0.44652027674561856,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20RODRIGO.png"
     },
     {
         "id": 33,
         "nome": "JACKSUEC SOARES DE ARRUDA",
         "matricula": 305030104,
-        "porcentagem": 0.4449,
+        "porcentagem": 0.43874346869795633,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20JACKSUEC.png"
     },
     {
         "id": 34,
-        "nome": "TAINAM CAROLINA VIDAL LOURENCO",
-        "matricula": 301010103,
-        "porcentagem": 0.4439,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20TAINAM.png"
-    },
-    {
-        "id": 35,
         "nome": "CAROLINA DE GODOY",
         "matricula": 302060102,
-        "porcentagem": 0.4378,
+        "porcentagem": 0.43579024092299495,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20CAROLINA.png"
     },
     {
-        "id": 36,
+        "id": 35,
         "nome": "FERNANDO JURIATI",
         "matricula": 301030104,
-        "porcentagem": 0.435,
+        "porcentagem": 0.4348862179134811,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20FERNANDO.png"
     },
     {
+        "id": 36,
+        "nome": "TAINAM CAROLINA VIDAL LOURENCO",
+        "matricula": 301010103,
+        "porcentagem": 0.43406706019739966,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20TAINAM.png"
+    },
+    {
         "id": 37,
-        "nome": "FELLIPE CAMPOS REZENDE",
-        "matricula": 303020104,
-        "porcentagem": 0.4349,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/FELLIPE%20CAMPOS%20REZENDE.png"
+        "nome": "ALINE SARTORI",
+        "matricula": 301060105,
+        "porcentagem": 0.43064702878894306,
+        "img": ""
     },
     {
         "id": 38,
         "nome": "BRUNO CAETANO DURANTE",
         "matricula": 302060103,
-        "porcentagem": 0.4299,
+        "porcentagem": 0.4284737038507692,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20BRUNO.png"
     },
     {
         "id": 39,
         "nome": "MARCIO ELENO PALHARINI",
         "matricula": 301040104,
-        "porcentagem": 0.4277,
+        "porcentagem": 0.4259410170292746,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20MARCIO_ELENO.png"
     },
     {
         "id": 40,
-        "nome": "VANESSA FOLEGATTI CARVALHAL",
-        "matricula": 302080104,
-        "porcentagem": 0.4273,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20VANESSA.png"
-    },
-    {
-        "id": 41,
         "nome": "JONATHAN LELIS DE FREITAS",
         "matricula": 305010101,
-        "porcentagem": 0.4273,
+        "porcentagem": 0.424195160002937,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20JONATHAN_LELIS.png"
     },
     {
+        "id": 41,
+        "nome": "FELLIPE CAMPOS REZENDE",
+        "matricula": 303020104,
+        "porcentagem": 0.42387947868565445,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/FELLIPE%20CAMPOS%20REZENDE.png"
+    },
+    {
         "id": 42,
-        "nome": "AMANDA GONCALVES ABRAHAO DA SILVA",
-        "matricula": 302080101,
-        "porcentagem": 0.4252,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20AMANDA.png"
+        "nome": "VANESSA FOLEGATTI CARVALHAL",
+        "matricula": 302080104,
+        "porcentagem": 0.4238382362034286,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20VANESSA.png"
     },
     {
         "id": 43,
-        "nome": "JOSE ANTONIO RESENDE REIS",
-        "matricula": 303080101,
-        "porcentagem": 0.4244,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20JOSE_ANTONIO.png"
+        "nome": "AMANDA GONCALVES ABRAHAO DA SILVA",
+        "matricula": 302080101,
+        "porcentagem": 0.4221730135146146,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20AMANDA.png"
     },
     {
         "id": 44,
-        "nome": "GEANE ERIELE SILVA RAGNINI",
-        "matricula": 305040104,
-        "porcentagem": 0.4218,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20GEANE.png"
-    },
-    {
-        "id": 45,
         "nome": "MARIA JULIANA DE CARVALHO BERTELLI",
         "matricula": 301060102,
-        "porcentagem": 0.4215,
+        "porcentagem": 0.42125321080829986,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/MARIA%20JULIANA%20DE%20CARVALHO%20BERTELLI.png"
     },
     {
+        "id": 45,
+        "nome": "GEANE ERIELE SILVA RAGNINI",
+        "matricula": 305040104,
+        "porcentagem": 0.41820787984707775,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20GEANE.png"
+    },
+    {
         "id": 46,
-        "nome": "KAREN CRISTINA MARQUES GONCALVES",
-        "matricula": 304040103,
-        "porcentagem": 0.4175,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/Karen-Cristina-Marques-Goncalves.png"
+        "nome": "JOSE ANTONIO RESENDE REIS",
+        "matricula": 303080101,
+        "porcentagem": 0.4161105191000023,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20JOSE_ANTONIO.png"
     },
     {
         "id": 47,
-        "nome": "ORIOVALDO JESUS PINTO",
-        "matricula": 301080103,
-        "porcentagem": 0.4172,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20ORIOVALDO.png"
+        "nome": "VICTOR GOMES MELO",
+        "matricula": 305010102,
+        "porcentagem": 0.4152006157203939,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20VICTOR.png"
     },
     {
         "id": 48,
-        "nome": "VICTOR GOMES MELO",
-        "matricula": 305010102,
-        "porcentagem": 0.4162,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20VICTOR.png"
+        "nome": "ORIOVALDO JESUS PINTO",
+        "matricula": 301080103,
+        "porcentagem": 0.411160854394855,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20ORIOVALDO.png"
     },
     {
         "id": 49,
         "nome": "DANILO KENNEDY MARTINS",
         "matricula": 303020102,
-        "porcentagem": 0.4157,
+        "porcentagem": 0.4108561340634104,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/Danilo-Kennedy-Martins.png"
     },
     {
         "id": 50,
-        "nome": "THIAGO DA SILVA PINTO",
-        "matricula": 304060104,
-        "porcentagem": 0.4151,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/THIAGO%20DA%20SILVA%20PINTO.png"
+        "nome": "GUILHERME VENTURA RONDANIN",
+        "matricula": 302030101,
+        "porcentagem": 0.409885430715756,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/GUILHERME%20VENTURA%20RONDANIN.png"
     },
     {
         "id": 51,
         "nome": "LIZANDRI DE OLIVEIRA RANGAN TEIXEIRA",
         "matricula": 302080103,
-        "porcentagem": 0.4127,
+        "porcentagem": 0.4095018500643747,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20LIZANDRI.png"
     },
     {
         "id": 52,
-        "nome": "PEDRO HENRIQUE BRANDAO",
-        "matricula": 305040103,
-        "porcentagem": 0.4118,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20PEDRO_BRANDAO.png"
-    },
-    {
-        "id": 53,
         "nome": "JACQUELINE RODRIGUES DE OLIVEIRA FIGUEIREDO",
         "matricula": 303070103,
-        "porcentagem": 0.4104,
+        "porcentagem": 0.4095004074849362,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/JACQUELINE%20RODRIGUES%20DE%20OLIVEIRA%20FIGUEIREDO.png"
     },
     {
-        "id": 54,
-        "nome": "ROBSON MARQUES MOREIRA",
-        "matricula": 302040105,
-        "porcentagem": 0.4097,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20ROBSON.png"
-    },
-    {
-        "id": 55,
+        "id": 53,
         "nome": "MARCELA COLARES CORREA DE MENEZES",
         "matricula": 305030103,
-        "porcentagem": 0.4091,
+        "porcentagem": 0.40924911906357436,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20MARCELA.png"
     },
     {
-        "id": 56,
-        "nome": "GUILHERME VENTURA RONDANIN",
-        "matricula": 302030101,
-        "porcentagem": 0.4089,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/GUILHERME%20VENTURA%20RONDANIN.png"
-    },
-    {
-        "id": 57,
+        "id": 54,
         "nome": "VANESSA LUZ IVANKOVICH",
         "matricula": 302010103,
-        "porcentagem": 0.4077,
+        "porcentagem": 0.40887635436869146,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/VANESSA%20LUZ%20IVANKOVICH.png"
     },
     {
-        "id": 58,
-        "nome": "ALINE DE SOUZA RIBEIRO",
-        "matricula": 301080104,
-        "porcentagem": 0.4052,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/ALINE%20DE%20SOUZA%20RIBEIRO.png"
+        "id": 55,
+        "nome": "KAREN CRISTINA MARQUES GONCALVES",
+        "matricula": 304040103,
+        "porcentagem": 0.40852493654876515,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/Karen-Cristina-Marques-Goncalves.png"
     },
     {
-        "id": 59,
+        "id": 56,
+        "nome": "ROBSON MARQUES MOREIRA",
+        "matricula": 302040105,
+        "porcentagem": 0.40841570939930216,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20ROBSON.png"
+    },
+    {
+        "id": 57,
+        "nome": "THIAGO DA SILVA PINTO",
+        "matricula": 304060104,
+        "porcentagem": 0.40736548254803534,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/THIAGO%20DA%20SILVA%20PINTO.png"
+    },
+    {
+        "id": 58,
         "nome": "DIEGO ZUMERLE CANDIDO",
         "matricula": 303080104,
-        "porcentagem": 0.4043,
+        "porcentagem": 0.40339656098266763,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/DIEGO%20ZUMERLE%20CANDIDO.png"
     },
     {
+        "id": 59,
+        "nome": "ALINE DE SOUZA RIBEIRO",
+        "matricula": 301080104,
+        "porcentagem": 0.4021523759944548,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/ALINE%20DE%20SOUZA%20RIBEIRO.png"
+    },
+    {
         "id": 60,
-        "nome": "EDUARDO CARLOS ALVARENGA",
-        "matricula": 303080404,
-        "porcentagem": 0.404,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/EDUARDO%20CARLOS%20ALVARENGA.png"
+        "nome": "PEDRO HENRIQUE BRANDAO",
+        "matricula": 305040103,
+        "porcentagem": 0.401811147897093,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/REP_ALFA_%20PEDRO_BRANDAO.png"
     },
     {
         "id": 61,
-        "nome": "THAYARA ESPERANCA BRUNIERA",
-        "matricula": 303020103,
-        "porcentagem": 0.3995,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/THAYARA%20ESPERANCA%20BRUNIERA.png"
+        "nome": "SANDRO HENRIQUE COKELI",
+        "matricula": 302090102,
+        "porcentagem": 0.3999785036974113,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/SANDRO%20HENRIQUE%20COKELI"
     }
 ];
 
@@ -2157,7 +2157,7 @@ function AlfaComponent_div_8_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", pessoa_r1.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](6, 4, pessoa_r1.porcentagem, "1.2-5"), " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](6, 4, pessoa_r1.porcentagem), " ");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](pessoa_r1.nome);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -2198,9 +2198,12 @@ class AlfaComponent {
             this.openModal();
         }
     }
+    aroundMath(porcentagem) {
+        return Math.round(porcentagem);
+    }
 }
 AlfaComponent.ɵfac = function AlfaComponent_Factory(t) { return new (t || AlfaComponent)(); };
-AlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: AlfaComponent, selectors: [["app-alfa"]], decls: 28, vars: 11, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/titulo_GDALFADELTA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/titulo_GDALFADELTA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function AlfaComponent_Template(rf, ctx) { if (rf & 1) {
+AlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: AlfaComponent, selectors: [["app-alfa"]], decls: 28, vars: 10, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/GDALFADELTA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/GDALFADELTA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function AlfaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 2);
@@ -2213,7 +2216,7 @@ AlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "section");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](6, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](7, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, AlfaComponent_div_8_Template, 13, 7, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, AlfaComponent_div_8_Template, 13, 6, "div", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -2251,11 +2254,11 @@ AlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](8);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngForOf", ctx.arquivos);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](9, _c0, ctx.showModal ? "block" : "none"));
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](8, _c0, ctx.showModal ? "block" : "none"));
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](7);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx.pessoaModal == null ? null : ctx.pessoaModal.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem, "1.2-5"), " ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem), " ");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.pessoaModal == null ? null : ctx.pessoaModal.nome);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -2343,288 +2346,288 @@ const RpSigma = [
         "id": 1,
         "nome": "FABIANA ROCHA ROSA",
         "matricula": 502050901,
-        "porcentagem": 0.606,
+        "porcentagem": 0.60454782987847,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/FABIANA%20ROCHA%20ROSA.png"
     },
     {
         "id": 2,
         "nome": "MAURO VALPASSOS RIBEIRO",
         "matricula": 502050903,
-        "porcentagem": 0.584,
+        "porcentagem": 0.5814909373304189,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/MAURO%20V.%20RIBEIRO.png"
     },
     {
         "id": 3,
         "nome": "CYNTHIA VIEIRA FELIPE",
         "matricula": 501080906,
-        "porcentagem": 0.564,
+        "porcentagem": 0.5650129818133839,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/CYNTHIA%20VIEIRA%20FELIPE.png"
     },
     {
         "id": 4,
         "nome": "PATRICK SULLIVAN SILVA AIRES",
         "matricula": 501070906,
-        "porcentagem": 0.544,
+        "porcentagem": 0.5411046099311346,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/PATRICK%20SULLIVAN%20SILVA%20AIRES%20.png"
     },
     {
         "id": 5,
         "nome": "CESAR LUIZ FOGACA DA COSTA",
         "matricula": 501010907,
-        "porcentagem": 0.531,
+        "porcentagem": 0.5292906203443436,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/CESAR%20LUIZ%20F.%20DA%20COSTA.png"
     },
     {
         "id": 6,
         "nome": "MARLOM EDUARDO APONE",
         "matricula": 501080905,
-        "porcentagem": 0.528,
+        "porcentagem": 0.5246860953159111,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/MARLOM%20EDUARDO%20APONE.png"
     },
     {
         "id": 7,
         "nome": "GUSTAVO JOSE NOGUEIRA CHAVES SOUSA",
         "matricula": 502050902,
-        "porcentagem": 0.513,
+        "porcentagem": 0.5110491775773484,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/GUSTAVO%20JOSE%20N.%20C.%20SOUSA.png"
     },
     {
         "id": 8,
-        "nome": "CARLOS ALBERTO FRIGOTTO",
-        "matricula": 501030906,
-        "porcentagem": 0.497,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/Carlos-Alberto-Frigotto.png"
-    },
-    {
-        "id": 9,
         "nome": "ADNA SILVA DOS SANTOS",
         "matricula": 501070901,
-        "porcentagem": 0.496,
+        "porcentagem": 0.49071139093985744,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ADNA%20SILVA%20DOS%20SANTOS.png"
     },
     {
-        "id": 10,
+        "id": 9,
         "nome": "YAN CESARE YANAI BALDUINO",
         "matricula": 501030905,
-        "porcentagem": 0.492,
+        "porcentagem": 0.4863796145185058,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/YAN%20CESARE%20YANAI%20BALDUINO.png"
     },
     {
+        "id": 10,
+        "nome": "CARLOS ALBERTO FRIGOTTO",
+        "matricula": 501030906,
+        "porcentagem": 0.48619516785752426,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/Carlos-Alberto-Frigotto.png"
+    },
+    {
         "id": 11,
-        "nome": "MAX JOHNATHAN GARCIA DUARTE",
-        "matricula": 501070904,
-        "porcentagem": 0.483,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/MAX%20JOHNATHAN%20G.DUARTE.png"
-    },
-    {
-        "id": 12,
-        "nome": "LEANDRO DE OLIVEIRA STACH",
-        "matricula": 501060904,
-        "porcentagem": 0.481,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/LEANDRO%20DE%20OLIVEIRA%20STACH%20.png"
-    },
-    {
-        "id": 13,
         "nome": "INGRID MAYARA MOUROSIN RUMY",
         "matricula": 501060902,
-        "porcentagem": 0.479,
+        "porcentagem": 0.4767027689420147,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/MAYARA%20MOUROSIN%20RUMY.png"
     },
     {
-        "id": 14,
+        "id": 12,
+        "nome": "MAX JOHNATHAN GARCIA DUARTE",
+        "matricula": 501070904,
+        "porcentagem": 0.47647907912559884,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/MAX%20JOHNATHAN%20G.DUARTE.png"
+    },
+    {
+        "id": 13,
         "nome": "PAULO EDSON AZEVEDO SOBRINHO",
         "matricula": 502080910,
-        "porcentagem": 0.472,
+        "porcentagem": 0.46638198652600005,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/PAULO%20EDSON%20A.%20SOBRINHO.png"
     },
     {
-        "id": 15,
+        "id": 14,
         "nome": "THAYANE DA SILVA FERNANDES DE MORAES",
         "matricula": 502040901,
-        "porcentagem": 0.468,
+        "porcentagem": 0.46100140466278955,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/THAYANE%20DA%20SILVA%20F.%20DE%20MORAES.png"
     },
     {
-        "id": 16,
-        "nome": "FRANCISCO GILBERTO FALASCO",
-        "matricula": 501040903,
-        "porcentagem": 0.464,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/FRANCISCO%20G.%20FALASCO.png"
-    },
-    {
-        "id": 17,
+        "id": 15,
         "nome": "ADRIANO CESAR MARTINS DHESSICHK",
         "matricula": 501080901,
-        "porcentagem": 0.459,
+        "porcentagem": 0.4572447530793833,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ADRIANO%20CESAR%20MARTINS%20DHESSICHK.png"
     },
     {
-        "id": 18,
-        "nome": "HELGA MIRANDA SLAMA REIS",
-        "matricula": 501040906,
-        "porcentagem": 0.459,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/HELGA%20MIRANDA%20SLAMA%20REIS.png"
-    },
-    {
-        "id": 19,
-        "nome": "DANIELA JOSE DA SILVA ZANCA",
-        "matricula": 501050903,
-        "porcentagem": 0.458,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/DANIELA%20JOSE%20DA%20SILVA%20ZANCA.png"
-    },
-    {
-        "id": 20,
+        "id": 16,
         "nome": "ALARY ALMIR GONCALVES",
         "matricula": 502010906,
-        "porcentagem": 0.458,
+        "porcentagem": 0.45459976970492466,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ALARY%20ALMIR%20GONCALVES%20.png"
     },
     {
-        "id": 21,
+        "id": 17,
+        "nome": "LEANDRO DE OLIVEIRA STACH",
+        "matricula": 501060904,
+        "porcentagem": 0.45455807511759977,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/LEANDRO%20DE%20OLIVEIRA%20STACH%20.png"
+    },
+    {
+        "id": 18,
+        "nome": "DANIELA JOSE DA SILVA ZANCA",
+        "matricula": 501050903,
+        "porcentagem": 0.4521286153405312,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/DANIELA%20JOSE%20DA%20SILVA%20ZANCA.png"
+    },
+    {
+        "id": 19,
         "nome": "ERICK LOPES DE ARAUJO",
         "matricula": 501070903,
-        "porcentagem": 0.456,
+        "porcentagem": 0.4520896970229352,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ERICK%20LOPES%20DE%20ARAUJO.png"
     },
     {
+        "id": 20,
+        "nome": "PAULO HENRIQUE SALLES",
+        "matricula": 501070902,
+        "porcentagem": 0.4505510900521645,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/PAULO%20HENRIQUE%20SALLES.png"
+    },
+    {
+        "id": 21,
+        "nome": "JESSICA BENZI DOS SANTOS",
+        "matricula": 501080909,
+        "porcentagem": 0.4473535537484667,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/JESSICA%20BENZI%20DOS%20SANTOS.png"
+    },
+    {
         "id": 22,
-        "nome": "LEONARDO DO NASCIMENTO CHITA",
-        "matricula": 502050904,
-        "porcentagem": 0.453,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/LEONARDO%20D.%20N.%20CHITA%20.png"
+        "nome": "FRANCISCO GILBERTO FALASCO",
+        "matricula": 501040903,
+        "porcentagem": 0.4472099812429741,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/FRANCISCO%20G.%20FALASCO.png"
     },
     {
         "id": 23,
-        "nome": "PAULO HENRIQUE SALLES",
-        "matricula": 501070902,
-        "porcentagem": 0.452,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/PAULO%20HENRIQUE%20SALLES.png"
+        "nome": "LEONARDO DO NASCIMENTO CHITA",
+        "matricula": 502050904,
+        "porcentagem": 0.4454135251302785,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/LEONARDO%20D.%20N.%20CHITA%20.png"
     },
     {
         "id": 24,
         "nome": "CAROLINE FERRAZ DE SOUZA",
         "matricula": 501010909,
-        "porcentagem": 0.448,
+        "porcentagem": 0.44293662742398693,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/CAROLINE%20F.%20DE%20SOUZA.png"
     },
     {
         "id": 25,
-        "nome": "JESSICA BENZI DOS SANTOS",
-        "matricula": 501080909,
-        "porcentagem": 0.445,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/JESSICA%20BENZI%20DOS%20SANTOS.png"
-    },
-    {
-        "id": 26,
         "nome": "ROBSON AUGUSTO DE JESUS JUNIOR",
         "matricula": 501030901,
-        "porcentagem": 0.441,
+        "porcentagem": 0.44127220323320915,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ROBSON%20A.%20DE%20JESUS%20JUNIOR.png"
     },
     {
+        "id": 26,
+        "nome": "HELGA MIRANDA SLAMA REIS",
+        "matricula": 501040906,
+        "porcentagem": 0.433977160623851,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/HELGA%20MIRANDA%20SLAMA%20REIS.png"
+    },
+    {
         "id": 27,
-        "nome": "LOYSE AVILA GUIMARAES",
-        "matricula": 502040904,
-        "porcentagem": 0.433,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/LOYSE%20AVILA%20GUIMARAES%20.png"
+        "nome": "PRISCILA MECABO DA ROCHA",
+        "matricula": 501010906,
+        "porcentagem": 0.42807655625854757,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/PRISCILA%20M.DA%20ROCHA.png"
     },
     {
         "id": 28,
-        "nome": "PRISCILA MECABO DA ROCHA",
-        "matricula": 501010906,
-        "porcentagem": 0.427,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/PRISCILA%20M.DA%20ROCHA.png"
+        "nome": "LOYSE AVILA GUIMARAES",
+        "matricula": 502040904,
+        "porcentagem": 0.42690552833468637,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/LOYSE%20AVILA%20GUIMARAES%20.png"
     },
     {
         "id": 29,
         "nome": "FERNANDA APARECIDA CORDEIRO",
         "matricula": 501060903,
-        "porcentagem": 0.426,
+        "porcentagem": 0.42531409033392914,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/FERNANDA%20A.%20CORDEIRO.png"
     },
     {
         "id": 30,
-        "nome": "SCHELBY CRISTINE DUARTE",
-        "matricula": 501020903,
-        "porcentagem": 0.425,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/SCHELBY%20C.%20DUARTE.png"
+        "nome": "RODRIGO NOGUEIRA DE ABREU",
+        "matricula": 501060906,
+        "porcentagem": 0.42077594386078787,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/RODRIGO%20NOGUEIRA%20DE%20ABREU.png"
     },
     {
         "id": 31,
-        "nome": "PATRICIA FONTES COELHO",
-        "matricula": 501070907,
-        "porcentagem": 0.424,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/PATRICIA%20FONTES%20COELHO.png"
+        "nome": "THIAGO SOAVE SCABIO",
+        "matricula": 501080907,
+        "porcentagem": 0.41820787984707775,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/THIAGO%20SOAVE%20SCABIO.png"
     },
     {
         "id": 32,
-        "nome": "THIAGO SOAVE SCABIO",
-        "matricula": 501080907,
-        "porcentagem": 0.422,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/THIAGO%20SOAVE%20SCABIO.png"
+        "nome": "SCHELBY CRISTINE DUARTE",
+        "matricula": 501020903,
+        "porcentagem": 0.4167116433556571,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/SCHELBY%20C.%20DUARTE.png"
     },
     {
         "id": 33,
         "nome": "ALEXANDRE BARREIRO DIAS",
         "matricula": 501040905,
-        "porcentagem": 0.419,
+        "porcentagem": 0.41588647253404604,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/ALEXANDRE-BARREIRO-DIAS.png"
     },
     {
         "id": 34,
-        "nome": "RODRIGO NOGUEIRA DE ABREU",
-        "matricula": 501060906,
-        "porcentagem": 0.418,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/RODRIGO%20NOGUEIRA%20DE%20ABREU.png"
+        "nome": "PATRICIA FONTES COELHO",
+        "matricula": 501070907,
+        "porcentagem": 0.415806125653071,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/PATRICIA%20FONTES%20COELHO.png"
     },
     {
         "id": 35,
         "nome": "DANIEL WANDER DA SILVA",
         "matricula": 502080901,
-        "porcentagem": 0.415,
+        "porcentagem": 0.41227535204067817,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/DANIEL%20W.%20DA%20SILVA%20.png"
     },
     {
         "id": 36,
         "nome": "VICTOR DA CUNHA TERRA",
         "matricula": 502020902,
-        "porcentagem": 0.413,
+        "porcentagem": 0.4055166358060362,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/VICTOR%20DA%20CUNHA%20TERRA.png"
     },
     {
         "id": 37,
         "nome": "THIAGO ROBERTO CAMILO",
         "matricula": 501070908,
-        "porcentagem": 0.405,
+        "porcentagem": 0.40179056904302984,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/THIAGO%20ROBERTO%20CAMILO.png"
     },
     {
         "id": 38,
-        "nome": "CAMILA CUSTODIO MENEGATTI",
-        "matricula": 502020903,
-        "porcentagem": 0.404,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/CAMILA%20CUSTODIO%20MENEGATTI.png"
-    },
-    {
-        "id": 39,
         "nome": "AQUILIS DE OLIVEIRA SOUZA",
         "matricula": 501080904,
-        "porcentagem": 0.404,
+        "porcentagem": 0.40138042072361113,
         "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/AQUILIS%20DE%20OLIVEIRA%20SOUZA.png"
     },
     {
+        "id": 39,
+        "nome": "KARL CESAR DA ROSS SANTOS",
+        "matricula": 501040908,
+        "porcentagem": 0.4013356727384764,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/KARL-CESAR-DA-ROSS-SANTOS.png"
+    },
+    {
         "id": 40,
-        "nome": "MARINA LINARES",
-        "matricula": 502020906,
-        "porcentagem": 0.404,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/MARINA%20LINARES.png"
+        "nome": "CAMILA CUSTODIO MENEGATTI",
+        "matricula": 502020903,
+        "porcentagem": 0.40105840600521486,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/CAMILA%20CUSTODIO%20MENEGATTI.png"
     },
     {
         "id": 41,
-        "nome": "KARL CESAR DA ROSS SANTOS",
-        "matricula": 501040908,
-        "porcentagem": 0.4,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/KARL-CESAR-DA-ROSS-SANTOS.png"
+        "nome": "MARINA LINARES",
+        "matricula": 502020906,
+        "porcentagem": 0.40022797689191436,
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-sigma/MARINA%20LINARES.png"
     }
 ];
 
@@ -2701,7 +2704,7 @@ function RpDeltaComponent_div_8_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", pessoa_r1.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](6, 4, pessoa_r1.porcentagem, "1.2-5"), " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](6, 4, pessoa_r1.porcentagem), " ");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](pessoa_r1.nome);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -2744,7 +2747,7 @@ class RpDeltaComponent {
     }
 }
 RpDeltaComponent.ɵfac = function RpDeltaComponent_Factory(t) { return new (t || RpDeltaComponent)(); };
-RpDeltaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: RpDeltaComponent, selectors: [["app-rp-delta"]], decls: 28, vars: 11, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/titulo_REPDELTA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container", 2, "padding-bottom", "10rem"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/titulo_REPDELTA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function RpDeltaComponent_Template(rf, ctx) { if (rf & 1) {
+RpDeltaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: RpDeltaComponent, selectors: [["app-rp-delta"]], decls: 28, vars: 10, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/REPDELTA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container", 2, "padding-bottom", "10rem"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/REPDELTA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function RpDeltaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 2);
@@ -2757,7 +2760,7 @@ RpDeltaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "section");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](6, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](7, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, RpDeltaComponent_div_8_Template, 13, 7, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, RpDeltaComponent_div_8_Template, 13, 6, "div", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -2795,11 +2798,11 @@ RpDeltaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](8);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngForOf", ctx.arquivos);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](9, _c0, ctx.showModal ? "block" : "none"));
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](8, _c0, ctx.showModal ? "block" : "none"));
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](7);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx.pessoaModal == null ? null : ctx.pessoaModal.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem, "1.2-5"), " ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem), " ");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.pessoaModal == null ? null : ctx.pessoaModal.nome);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);

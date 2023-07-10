@@ -1,5 +1,5 @@
 .bg {
-  background-image: url('../assets/images/bg-desk.jpg');
+  background-image: url('https://www.oscaraddera.com.br/bg-desk.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
@@ -7,6 +7,6 @@
 
 @media screen and (max-width: 468px) {
   .bg {
-    background-image: url('../assets/images/bg.jpg');
+    background-image: url('https://www.oscaraddera.com.br/bg.jpg');
   }
 }

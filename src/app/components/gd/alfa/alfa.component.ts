@@ -48,4 +48,9 @@ export class AlfaComponent implements OnInit {
       this.openModal();
     }
   }
+
+  aroundMath(porcentagem: number){
+    return Math.round(porcentagem);
+  }
+
 }
