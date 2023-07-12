@@ -425,6 +425,6 @@ export const RpAlfa =
      "nome": "SANDRO HENRIQUE COKELI",
      "matricula": 302090102,
      "porcentagem": 0.3999785036974113,
-     "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/SANDRO%20HENRIQUE%20COKELI"
+     "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/SANDRO%20HENRIQUE%20COKELI.png"
     }
    ]

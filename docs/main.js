@@ -1104,7 +1104,7 @@ const RpDelta = [
         "nome": "ANA PAULA DA FONSECA BARBOSA",
         "matricula": 304050402,
         "porcentagem": 0.5214404054940115,
-        "img": ""
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/Ana%20Paula%20Da%20Fonseca%20Barbosa.png"
     },
     {
         "id": 10,
@@ -1468,7 +1468,7 @@ const RpDelta = [
         "nome": "LUCIANO DONISETE FERNANDES FELICIANO",
         "matricula": 302090402,
         "porcentagem": 0.3999785036974113,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/LUCIANO%20DONISETE%20FERNANDES%20FELICIANO,png"
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/LUCIANO%20DONISETE%20FERNANDES%20FELICIANO.png"
     }
 ];
 
@@ -1962,7 +1962,7 @@ const RpAlfa = [
         "nome": "SANDRO HENRIQUE COKELI",
         "matricula": 302090102,
         "porcentagem": 0.3999785036974113,
-        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/SANDRO%20HENRIQUE%20COKELI"
+        "img": "https://www.oscaraddera.com.br/assets/images/rp-alfa/SANDRO%20HENRIQUE%20COKELI.png"
     }
 ];
 
