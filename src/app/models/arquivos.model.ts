@@ -1,7 +1,7 @@
 export interface ArquivosModel {
   id: number;
   nome: string;
-  matricula: number;
+  matricula: string;
   porcentagem: number;
   img: string
 }
