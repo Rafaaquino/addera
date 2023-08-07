@@ -291,7 +291,7 @@ export const RpDelta = [
     "nome": "MARCO ALEXANDRE ALVES",
     "matricula": "302080401",
     "porcentagem": 0.4248062708890867,
-    "img": ""
+    "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/MARCO%20ALEXANDRE%20ALVES"
   },
   {
     "id": 43,
@@ -424,14 +424,14 @@ export const RpDelta = [
     "nome": "LUCIANO DONISETE FERNANDES FELICIANO",
     "matricula": "302090402",
     "porcentagem": 0.4010214885319784,
-    "img": ""
+    "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/LUCIANO%20DONISETE%20FERNANDES%20FELICIANO"
   },
   {
     "id": 62,
     "nome": "ANA PAULA SILVA FRAGA GARCIA",
     "matricula": "301050402",
     "porcentagem": 0.39998621788619354,
-    "img": ""
+    "img": "https://www.oscaraddera.com.br/assets/images/rp-delta/ANA%20PAULA%20SILVA%20FRAGA%20GARCIA"
   },
   {
     "id": 63,
