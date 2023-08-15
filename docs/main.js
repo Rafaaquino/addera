@@ -205,7 +205,7 @@ function SigmaComponent_div_8_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", pessoa_r1.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](6, 4, pessoa_r1.porcentagem), " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](6, 4, pessoa_r1.porcentagem, "2.1-1"), " ");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](pessoa_r1.nome);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -248,7 +248,7 @@ class SigmaComponent {
     }
 }
 SigmaComponent.ɵfac = function SigmaComponent_Factory(t) { return new (t || SigmaComponent)(); };
-SigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: SigmaComponent, selectors: [["app-sigma"]], decls: 28, vars: 10, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/GDSIGMA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/GDSIGMA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function SigmaComponent_Template(rf, ctx) { if (rf & 1) {
+SigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: SigmaComponent, selectors: [["app-sigma"]], decls: 28, vars: 11, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/GDSIGMA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/GDSIGMA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function SigmaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 2);
@@ -261,7 +261,7 @@ SigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineCom
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "section");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](6, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](7, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, SigmaComponent_div_8_Template, 13, 6, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, SigmaComponent_div_8_Template, 13, 7, "div", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -299,11 +299,11 @@ SigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineCom
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](8);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngForOf", ctx.arquivos);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](8, _c0, ctx.showModal ? "block" : "none"));
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](9, _c0, ctx.showModal ? "block" : "none"));
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](7);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx.pessoaModal == null ? null : ctx.pessoaModal.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem), " ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem, "2.1-1"), " ");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.pessoaModal == null ? null : ctx.pessoaModal.nome);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -355,31 +355,87 @@ __webpack_require__.r(__webpack_exports__);
 const GdAlfa = [
     {
         "id": 1,
-        "nome": "NAICK FELIPE SANTOS CUNHA",
-        "matricula": "501070000",
-        "porcentagem": 0.44428826816932543,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/GD_SIGMA_NAICK.png"
+        "nome": "SAMUEL CALDAS BATISTA MARQUES",
+        "matricula": "304050000",
+        "porcentagem": 0.5379013056696621,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_SAMUEL.png"
     },
     {
         "id": 2,
-        "nome": "LUCIANO LUCIO FERREIRA XAVIER",
-        "matricula": "501080000",
-        "porcentagem": 0.4376279048405191,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/GD_SIGMA_LUCIANO.png"
+        "nome": "DANIEL RIBEIRO DA COSTA",
+        "matricula": "303060000",
+        "porcentagem": 0.5003480608698776,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANIEL.png"
     },
     {
         "id": 3,
-        "nome": "MARCIO PERESSIN",
-        "matricula": "501030000",
-        "porcentagem": 0.41020445525061866,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/GD_SIGMA_MARCIO.png"
+        "nome": "LUCIANO PEREIRA BORGES JUNIOR",
+        "matricula": "303040000",
+        "porcentagem": 0.4845312940821848,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_LUCIANO.png"
     },
     {
         "id": 4,
-        "nome": "RENATA MARTINO DE CARVALHO LEAL",
-        "matricula": "502050000",
-        "porcentagem": 0.39997125833771435,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/RENATA%20MARTINO%20DE%20CARVALHO%20LEAL.png"
+        "nome": "THIAGO PEREIRA MONTE REY",
+        "matricula": "305040000",
+        "porcentagem": 0.47958738410178986,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_THIAGO.png"
+    },
+    {
+        "id": 5,
+        "nome": "MARCIO ALVES TEIXEIRA",
+        "matricula": "304040000",
+        "porcentagem": 0.45845491684314216,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_MARCIO.png"
+    },
+    {
+        "id": 6,
+        "nome": "PAULO ROBERTO LOUREIRO DE ALMEIDA ASSIS",
+        "matricula": "301070000",
+        "porcentagem": 0.43866021673380146,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta//GD_ALFA_DELTA_PAULO_ALMEIDA.png"
+    },
+    {
+        "id": 7,
+        "nome": "DANILO MACEDO LIMA",
+        "matricula": "302080000",
+        "porcentagem": 0.4373981936920285,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANILO.png"
+    },
+    {
+        "id": 8,
+        "nome": "WEMERSON TEOFILO DE OLIVEIRA",
+        "matricula": "303050000",
+        "porcentagem": 0.4221764237669418,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_WEMERSON.png"
+    },
+    {
+        "id": 9,
+        "nome": "PAULO SERGIO FEIJOLI JUNIOR",
+        "matricula": "304080000",
+        "porcentagem": 0.4109077955347087,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_PAULO_FEIJOLI.png"
+    },
+    {
+        "id": 10,
+        "nome": "RENATA PEREIRA DA SILVA",
+        "matricula": "302060000",
+        "porcentagem": 0.4035031840213717,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_RENATA.png"
+    },
+    {
+        "id": 11,
+        "nome": "FELIPE MULLER",
+        "matricula": "301030000",
+        "porcentagem": 0.40224344217257896,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/FELIPE%20MULLER.png"
+    },
+    {
+        "id": 12,
+        "nome": "JOAO DIRCEU DE TOLEDO JUNIOR",
+        "matricula": "302010000",
+        "porcentagem": 0.4021874425336453,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/JOAO%20DIRCEU%20DE%20TOLEDO%20JUNIOR.png"
     }
 ];
 
@@ -430,7 +486,7 @@ function RpAlfaComponent_div_8_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", pessoa_r1.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](6, 4, pessoa_r1.porcentagem), " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](6, 4, pessoa_r1.porcentagem, "2.1-1"), " ");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](pessoa_r1.nome);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -473,7 +529,7 @@ class RpAlfaComponent {
     }
 }
 RpAlfaComponent.ɵfac = function RpAlfaComponent_Factory(t) { return new (t || RpAlfaComponent)(); };
-RpAlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: RpAlfaComponent, selectors: [["app-rp-alfa"]], decls: 28, vars: 10, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/REPALFA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/REPALFA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function RpAlfaComponent_Template(rf, ctx) { if (rf & 1) {
+RpAlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: RpAlfaComponent, selectors: [["app-rp-alfa"]], decls: 28, vars: 11, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/REPALFA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/REPALFA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function RpAlfaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 2);
@@ -486,7 +542,7 @@ RpAlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "section");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](6, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](7, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, RpAlfaComponent_div_8_Template, 13, 6, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, RpAlfaComponent_div_8_Template, 13, 7, "div", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -524,11 +580,11 @@ RpAlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](8);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngForOf", ctx.arquivos);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](8, _c0, ctx.showModal ? "block" : "none"));
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](9, _c0, ctx.showModal ? "block" : "none"));
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](7);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx.pessoaModal == null ? null : ctx.pessoaModal.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem), " ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem, "2.1-1"), " ");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.pessoaModal == null ? null : ctx.pessoaModal.nome);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -582,7 +638,7 @@ function RpSigmaComponent_div_8_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", pessoa_r1.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](6, 4, pessoa_r1.porcentagem), " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](6, 4, pessoa_r1.porcentagem, "2.1-1"), " ");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](pessoa_r1.nome);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -625,7 +681,7 @@ class RpSigmaComponent {
     }
 }
 RpSigmaComponent.ɵfac = function RpSigmaComponent_Factory(t) { return new (t || RpSigmaComponent)(); };
-RpSigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: RpSigmaComponent, selectors: [["app-rp-sigma"]], decls: 28, vars: 10, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/REPSIGMA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/REPSIGMA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function RpSigmaComponent_Template(rf, ctx) { if (rf & 1) {
+RpSigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: RpSigmaComponent, selectors: [["app-rp-sigma"]], decls: 28, vars: 11, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/REPSIGMA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/REPSIGMA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function RpSigmaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 2);
@@ -638,7 +694,7 @@ RpSigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "section");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](6, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](7, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, RpSigmaComponent_div_8_Template, 13, 6, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, RpSigmaComponent_div_8_Template, 13, 7, "div", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -676,11 +732,11 @@ RpSigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](8);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngForOf", ctx.arquivos);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](8, _c0, ctx.showModal ? "block" : "none"));
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](9, _c0, ctx.showModal ? "block" : "none"));
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](7);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx.pessoaModal == null ? null : ctx.pessoaModal.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem), " ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem, "2.1-1"), " ");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.pessoaModal == null ? null : ctx.pessoaModal.nome);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -1446,87 +1502,31 @@ __webpack_require__.r(__webpack_exports__);
 const Gdsigma = [
     {
         "id": 1,
-        "nome": "SAMUEL CALDAS BATISTA MARQUES",
-        "matricula": "304050000",
-        "porcentagem": 0.5379013056696621,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_SAMUEL.png"
+        "nome": "NAICK FELIPE SANTOS CUNHA",
+        "matricula": "501070000",
+        "porcentagem": 0.44428826816932543,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/GD_SIGMA_NAICK.png"
     },
     {
         "id": 2,
-        "nome": "DANIEL RIBEIRO DA COSTA",
-        "matricula": "303060000",
-        "porcentagem": 0.5003480608698776,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANIEL.png"
+        "nome": "LUCIANO LUCIO FERREIRA XAVIER",
+        "matricula": "501080000",
+        "porcentagem": 0.4376279048405191,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/GD_SIGMA_LUCIANO.png"
     },
     {
         "id": 3,
-        "nome": "LUCIANO PEREIRA BORGES JUNIOR",
-        "matricula": "303040000",
-        "porcentagem": 0.4845312940821848,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_LUCIANO.png"
+        "nome": "MARCIO PERESSIN",
+        "matricula": "501030000",
+        "porcentagem": 0.41020445525061866,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/GD_SIGMA_MARCIO.png"
     },
     {
         "id": 4,
-        "nome": "THIAGO PEREIRA MONTE REY",
-        "matricula": "305040000",
-        "porcentagem": 0.47958738410178986,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_THIAGO.png"
-    },
-    {
-        "id": 5,
-        "nome": "MARCIO ALVES TEIXEIRA",
-        "matricula": "304040000",
-        "porcentagem": 0.45845491684314216,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_MARCIO.png"
-    },
-    {
-        "id": 6,
-        "nome": "PAULO ROBERTO LOUREIRO DE ALMEIDA ASSIS",
-        "matricula": "301070000",
-        "porcentagem": 0.43866021673380146,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta//GD_ALFA_DELTA_PAULO_ALMEIDA.png"
-    },
-    {
-        "id": 7,
-        "nome": "DANILO MACEDO LIMA",
-        "matricula": "302080000",
-        "porcentagem": 0.4373981936920285,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_DANILO.png"
-    },
-    {
-        "id": 8,
-        "nome": "WEMERSON TEOFILO DE OLIVEIRA",
-        "matricula": "303050000",
-        "porcentagem": 0.4221764237669418,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_WEMERSON.png"
-    },
-    {
-        "id": 9,
-        "nome": "PAULO SERGIO FEIJOLI JUNIOR",
-        "matricula": "304080000",
-        "porcentagem": 0.4109077955347087,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_PAULO_FEIJOLI.png"
-    },
-    {
-        "id": 10,
-        "nome": "RENATA PEREIRA DA SILVA",
-        "matricula": "302060000",
-        "porcentagem": 0.4035031840213717,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/GD_ALFA_DELTA_RENATA.png"
-    },
-    {
-        "id": 11,
-        "nome": "FELIPE MULLER",
-        "matricula": "301030000",
-        "porcentagem": 0.40224344217257896,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/FELIPE%20MULLER.png"
-    },
-    {
-        "id": 12,
-        "nome": "JOAO DIRCEU DE TOLEDO JUNIOR",
-        "matricula": "302010000",
-        "porcentagem": 0.4021874425336453,
-        "img": "https://www.oscaraddera.com.br/assets/images/gd-alfa-delta/JOAO%20DIRCEU%20DE%20TOLEDO%20JUNIOR.png"
+        "nome": "RENATA MARTINO DE CARVALHO LEAL",
+        "matricula": "502050000",
+        "porcentagem": 0.39997125833771435,
+        "img": "https://www.oscaraddera.com.br/assets/images/gd-sigma/RENATA%20MARTINO%20DE%20CARVALHO%20LEAL.png"
     }
 ];
 
@@ -2178,7 +2178,7 @@ function AlfaComponent_div_8_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", pessoa_r1.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](6, 4, pessoa_r1.porcentagem), " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](6, 4, pessoa_r1.porcentagem, "2.1-1"), " ");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](pessoa_r1.nome);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -2224,7 +2224,7 @@ class AlfaComponent {
     }
 }
 AlfaComponent.ɵfac = function AlfaComponent_Factory(t) { return new (t || AlfaComponent)(); };
-AlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: AlfaComponent, selectors: [["app-alfa"]], decls: 28, vars: 10, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/GDALFADELTA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/GDALFADELTA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function AlfaComponent_Template(rf, ctx) { if (rf & 1) {
+AlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: AlfaComponent, selectors: [["app-alfa"]], decls: 28, vars: 11, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/GDALFADELTA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/GDALFADELTA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function AlfaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 2);
@@ -2237,7 +2237,7 @@ AlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "section");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](6, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](7, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, AlfaComponent_div_8_Template, 13, 6, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, AlfaComponent_div_8_Template, 13, 7, "div", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -2275,11 +2275,11 @@ AlfaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](8);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngForOf", ctx.arquivos);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](8, _c0, ctx.showModal ? "block" : "none"));
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](9, _c0, ctx.showModal ? "block" : "none"));
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](7);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx.pessoaModal == null ? null : ctx.pessoaModal.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem), " ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem, "2.1-1"), " ");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.pessoaModal == null ? null : ctx.pessoaModal.nome);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -2669,7 +2669,7 @@ function RpDeltaComponent_div_8_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", pessoa_r1.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](6, 4, pessoa_r1.porcentagem), " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](6, 4, pessoa_r1.porcentagem, "2.1-1"), " ");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](pessoa_r1.nome);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -2712,7 +2712,7 @@ class RpDeltaComponent {
     }
 }
 RpDeltaComponent.ɵfac = function RpDeltaComponent_Factory(t) { return new (t || RpDeltaComponent)(); };
-RpDeltaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: RpDeltaComponent, selectors: [["app-rp-delta"]], decls: 28, vars: 10, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/REPDELTA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container", 2, "padding-bottom", "10rem"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/REPDELTA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function RpDeltaComponent_Template(rf, ctx) { if (rf & 1) {
+RpDeltaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: RpDeltaComponent, selectors: [["app-rp-delta"]], decls: 28, vars: 11, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/REPDELTA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container", 2, "padding-bottom", "10rem"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/REPDELTA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function RpDeltaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 2);
@@ -2725,7 +2725,7 @@ RpDeltaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "section");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](6, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](7, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, RpDeltaComponent_div_8_Template, 13, 6, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, RpDeltaComponent_div_8_Template, 13, 7, "div", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -2763,11 +2763,11 @@ RpDeltaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](8);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngForOf", ctx.arquivos);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](8, _c0, ctx.showModal ? "block" : "none"));
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngStyle", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](9, _c0, ctx.showModal ? "block" : "none"));
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](7);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx.pessoaModal == null ? null : ctx.pessoaModal.img, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind1"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem), " ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpipeBind2"](21, 6, ctx.pessoaModal == null ? null : ctx.pessoaModal.porcentagem, "2.1-1"), " ");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.pessoaModal == null ? null : ctx.pessoaModal.nome);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
