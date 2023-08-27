@@ -248,7 +248,7 @@ class SigmaComponent {
     }
 }
 SigmaComponent.ɵfac = function SigmaComponent_Factory(t) { return new (t || SigmaComponent)(); };
-SigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: SigmaComponent, selectors: [["app-sigma"]], decls: 28, vars: 11, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/GDSIGMA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/GDSIGMA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function SigmaComponent_Template(rf, ctx) { if (rf & 1) {
+SigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: SigmaComponent, selectors: [["app-sigma"]], decls: 28, vars: 11, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/GDGENESIS.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/GDGENESIS.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function SigmaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 2);
@@ -681,7 +681,7 @@ class RpSigmaComponent {
     }
 }
 RpSigmaComponent.ɵfac = function RpSigmaComponent_Factory(t) { return new (t || RpSigmaComponent)(); };
-RpSigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: RpSigmaComponent, selectors: [["app-rp-sigma"]], decls: 28, vars: 11, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/REPSIGMA.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/REPSIGMA.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function RpSigmaComponent_Template(rf, ctx) { if (rf & 1) {
+RpSigmaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: RpSigmaComponent, selectors: [["app-rp-sigma"]], decls: 28, vars: 11, consts: [[1, "pt-5"], [1, "container", "d-flex", "m-pl-3"], [1, "row"], [1, "col"], ["src", "../../../../assets/images/REPGENESIS.png", "alt", "GD alfa e delta addera", "width", "900", 1, "img-fluid", "img-titulo"], [1, "container"], ["class", "col-12 col-sm-3 col-md-3 p-5 center", 4, "ngFor", "ngForOf"], [1, "modal", 3, "ngStyle"], [1, "modal-content"], [1, "close", 3, "click"], [1, "row", "justify-center", "plr"], ["src", "../../../../assets/images/REPGENESIS.png", "alt", "GD alfa e delta addera", "width", "450", 1, "img-fluid", "img-titulo"], [1, "row", "justify-center"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src"], [1, "col-md-4", "text-center", "mb-5"], [1, "porcentagem"], [1, "hr-modal"], [1, "nome"], [1, "numero"], [1, "col-12", "col-sm-3", "col-md-3", "p-5", "center"], [1, "row", "justify-center", "clickImg"], ["alt", "", "width", "200", 1, "img-fluid", "moldura", 3, "src", "click"]], template: function RpSigmaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 2);
@@ -801,7 +801,7 @@ MenuComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "ul", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "li");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "a", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, "Sigma");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, "GENESIS");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "li");
@@ -832,7 +832,7 @@ MenuComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "li");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "a", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](33, "Sigma");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](33, "GENESIS");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
